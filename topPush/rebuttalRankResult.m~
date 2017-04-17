@@ -1,0 +1,381 @@
+clc 
+clear 
+addpath(genpath(pwd))
+
+diary('runtime_log.txt');
+diary on;
+result_dir = 'rebuttal_result/ranking/';
+
+%{1:train data dir, 2:test data dir, 3:positive label, 4:negative label, 5:result file name, 6:rounds, 7:tolerance step sizes, 8:tolerance UB, 9:tolerance LB}.    
+%if 'test data dir' == '', randomly split train data into 2 parts, seed is
+%current round.
+datasets = {
+        {'data/australian.txt', '', 1, -1, 'australian', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/leu', 'data/leu.t', 1, -1, 'leu', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/breast-cancer.txt', '', 2, 4, 'breast_cancer', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/colon-cancer', '', 1, -1, 'colon-cancer', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/diabetes.txt', '', 1, -1, 'diabetes', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/german.numer.txt', '', 1, -1, 'german', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/heart.txt', '', 1, -1, 'heart', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/ionosphere.txt', '', 1, -1, 'ionosphere', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/liver-disorders.txt', 'data/liver-disorders.t', 1, 0, 'liver-disorders', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+        {'data/spambase.mat', '', 1, -1, 'spambase', 30, [0.5, 0.2], 1e-1, 1e-4}, ...
+    };
+
+%         {'data/a8a.txt', 'data/a8a.t', 1, -1, 'a8a', 10, [0.5, 0.2], 1e-1, 1e-4}, ... 
+%         {'data/news20.binary', '', 1, -1, 'news20', 10, [0.5, 0.2], 1e-1, 1e-4}, ...
+%         {'data/w8a.txt', 'data/w8a.t', 1, -1, 'w8a', 10, [0.5, 0.2], 1e-1, 1e-4}, ...
+%         {'data/real-sim', '', 1, -1, 'real-sim', 10, [0.5, 0.2], 1e-1, 1e-4}, ...
+%         {'data/covtype.libsvm.binary.scale', '', 2, 1, 'covtype', 10, [0.5, 0.2], 1e-1, 1e-4},...
+
+%{'data/ijcnn1', 'data/ijcnn1.t', 1, -1, 'ijcnn', 10, [0.5, 0.2], 1e-1, 1e-4}, ...
+%{'data/rcv1_train.binary', 'data/rcv1_test.binary', 1, -1, 'rcv1', 10, [0.5, 0.2], 1e-1, 1e-4}, ...
+
+%% Manual settings of global variables
+target = 'T_AUC'; 
+test_data = 'TEST';
+
+%lab on?
+CS_SVM = 1;
+TopPush = 1;
+TopKPush = 1;
+TopPush_OOB = 0;
+TopKPush_OOB = 0;
+SVMpAUC = 1;
+
+%time-consuming?
+SAVE_TIME = 1;
+
+%save_model?
+SAVE_MODEL = 0;
+
+%liblinear
+liblinear = 1;
+
+%other parameters
+if SAVE_TIME 
+    %tolerance for SVM based methods
+    e = 0.001;
+    %enlarge step_size when computation is time-consuming.
+    %influence: ASVM, CS_SVM because their searching complexity is O(n^2).
+    step_size = 10.0;
+    %bn for OOB based methods
+    bn = 10;
+    %oob split rate(train w : whole train data)
+    sr = 4/5;
+else
+    %tolerance for SVM based methods.
+    e = 0.001;
+    step_size = 10.0;
+    bn = 20;
+    sr = 4/5;
+end
+    
+%% For each dataset
+for  data_cell = datasets 
+    %% Load configurations
+    auc_result = cell(0, 0);
+    btpr_result = cell(0, 0);
+    np_result = cell(0, 0);
+    fpr_result = cell(0, 0);
+    tpr_result = cell(0, 0);
+    
+    data_meta = data_cell{1};
+    opt.train_file = data_meta{1};
+    opt.test_file = data_meta{2};
+    opt.pl = data_meta{3};
+    opt.nl = data_meta{4};
+    result_file_name = data_meta{5};
+    total_round = data_meta{6};
+    t_step_sizes = data_meta{7};
+    u_tol = data_meta{8};
+    l_tol = data_meta{9};
+    %%
+    
+    %% For each round
+    for round = 1:total_round
+        %% Read data into memory
+        %random seed
+        opt.seed = round;
+        %be careful that data_id can't include '.' !
+        data_id = [result_dir, result_file_name, '_result'];
+        %Read data into memory, for data file
+        [Xtr, ytr, Xte, yte] = dataPreprocess(opt);
+        %Read data, for mat file.
+        %%
+        
+        %% List of tolerances
+        ts = [u_tol];
+        c_tol = u_tol;
+        te_size = size(yte, 1);
+
+        done_flag = 0;
+        while 1
+            for t_sz = t_step_sizes
+                c_tol = c_tol * t_sz;
+                if c_tol < l_tol
+                    done_flag = 1;
+                    break;
+                end
+                ts = [c_tol, ts];
+                if ceil(c_tol * te_size)  == 1
+                    done_flag = 1;
+                    break;
+                end
+            end
+            if done_flag    break;  end
+        end
+       
+        %% For every tolerance
+        for i_tol = 1:size(ts, 2)
+            fprintf(['Current Time: ',num2str(fix(clock)), '\n']);
+            fprintf('round: %d, tol: %f .\n', round, ts(i_tol));
+       
+            %% Auto settings
+            tolerance = ts(i_tol);
+            %reduce n_fold when computation is time-consuming.
+            %influence: ASVM, SVM, BS_SVM, CS_SVM, LR.
+            if size(yte, 1) < 100
+                n_fold = 2;
+            else
+                n_fold = 5;
+            end
+
+            if strcmp(test_data, 'TEST') 
+                N = size(yte, 1);
+            else
+                N = size(ytr, 1);
+                yte = ytr;
+                Xte = Xtr;
+            end
+            % scores
+            VPDT = zeros(N, 0);
+            % label predict
+            LPDT = zeros(N, 0);
+            METHOD = cell(1, 0);
+            %%
+
+            %% CS_SVM
+            tic    
+            if CS_SVM
+                fprintf('CS SVM start. \n');
+                cs_svm_opt.n_fold = n_fold;
+                cs_svm_opt.target = target;
+                cs_svm_opt.t = tolerance;
+                %this option is only used when n_fold == 1
+                cs_svm_opt.valid_rate = 1/3;
+                cs_svm_opt.e = e;
+                cs_svm_opt.liblinear = liblinear;
+
+                cs_svm_opt.c_lb = 1e-3;
+                cs_svm_opt.c_ub = 1e3;
+                cs_svm_opt.c_factor = step_size;
+                %w = C+/C-, w <= 1 is suitable for low fp. 
+                cs_svm_opt.w_lb = 1e-3;
+                cs_svm_opt.w_ub = 1;
+                cs_svm_opt.w_factor = step_size;
+                cs_svm_opt.seed = round;
+                [best_c, best_w, best_target ] = CS_SVM_GridSearch( ytr, Xtr,  cs_svm_opt);
+                fprintf('Best C: %f, best w: %f, best_target: %f.\n', best_c, best_w, best_target);
+
+                if liblinear
+                    cs_svm_model = liblineartrain(ytr, Xtr, ['-s 3 -c ', num2str(best_c), ' -w1 ', num2str(best_w), ' -e ', num2str(e), ' -B 1 -q']);
+                else
+                    cs_svm_model = libsvmtrain(ytr, Xtr, ['-s 0 -t 0 -c ', num2str(best_c), ' -w1 ', num2str(best_w), ' -e ', num2str(e)]);
+                end
+                cs_svm_liblinear = liblinear;
+                if SAVE_MODEL
+                    save (strcat(data_id, '_CS_SVM_GridSearchResult'), 'cs_svm_model', 'cs_svm_liblinear'); 
+                end
+
+                %model is loaded from model file succesfully, predict directly.
+                if cs_svm_liblinear
+                    [lpdt, ~, vpdt] = liblinearpredict(yte, Xte, cs_svm_model);
+                else
+                    [lpdt, ~, vpdt] = libsvmpredict(yte, Xte, cs_svm_model);
+                end
+
+                %update global result
+                VPDT = [VPDT, vpdt];
+                METHOD = [METHOD, 'CS_SVM'];
+            end
+            toc
+            
+            %% TopPush
+            tic
+            if TopPush
+                fprintf('TopPush GridSearch start. \n');   
+                %this option is only used when n_fold == 1
+                toppush_opt = [];
+                toppush_opt.valid_rate = 1/3;
+                toppush_opt.n_fold = n_fold;
+                toppush_opt.target = target;
+                toppush_opt.t = tolerance;
+                toppush_opt.c_lb = 1e-3;
+                toppush_opt.c_ub = 1e3;
+                toppush_opt.c_factor = step_size;
+                toppush_opt.seed = round;
+                [ best_lambda, best_target ] = topPush_Ranking_GridSearch( ytr, Xtr,  toppush_opt);
+                fprintf('Best lambda: %f, best_target: %f.\n', best_lambda, best_target);
+                
+                %wkr_opt initialization
+                toppush_opt = [];
+                toppush_opt.lambda =  best_lambda;
+                toppush_opt.maxIter = 10000;
+                toppush_opt.tol = 1e-4;
+                toppush_opt.debug = false;
+                model = topPushTrain(Xtr, ytr, toppush_opt);
+                pdt = modelPredict(model, Xte, 'SCORE');
+
+                %update global result
+                VPDT = [VPDT, pdt];
+                METHOD = [METHOD, 'TOP PUSH OOB'];
+            end
+            toc
+            
+            %% TopKPush
+            tic
+            if TopKPush
+                fprintf('TopKPush GridSearch start. \n');   
+                %this option is only used when n_fold == 1
+                topkpush_opt = [];
+                topkpush_opt.valid_rate = 1/3;
+                topkpush_opt.n_fold = n_fold;
+                topkpush_opt.target = target;
+                topkpush_opt.t = tolerance;
+                topkpush_opt.c_lb = 1e-3;
+                topkpush_opt.c_ub = 1e3;
+                topkpush_opt.c_factor = step_size;
+                topkpush_opt.seed = round;
+                topkpush_opt.k = tolerance;
+                [ best_lambda, best_target ] = topKPush_Ranking_GridSearch( ytr, Xtr,  topkpush_opt);
+                fprintf('Best lambda: %f, best_target: %f.\n', best_lambda, best_target);
+                
+                %wkr_opt initialization
+                topkpush_opt = [];
+                topkpush_opt.lambda =  best_lambda;
+                topkpush_opt.maxIter = 10000;
+                topkpush_opt.tol = 1e-4;
+                topkpush_opt.debug = false;
+                topkpush_opt.k = tolerance;
+                model = topKPushPreciseTrain(Xtr, ytr, topkpush_opt);
+                pdt = modelPredict(model, Xte, 'SCORE');
+
+                %update global result
+                VPDT = [VPDT, pdt];
+                METHOD = [METHOD, 'TOP PUSH OOB'];
+            end
+            toc
+            
+            %% SVMpAUC
+            tic
+            if SVMpAUC
+                opt.n_fold = n_fold;
+                opt.target = target;
+                opt.t = tolerance;
+                %this option is only used when n_fold == 1
+                opt.valid_rate = 1/3;
+                opt.lambda_lb = 1e-3;
+                opt.lambda_ub = 1e3;
+                opt.lambda_factor = step_size;
+                [best_lambda, best_target] = SVMpAUC_GridSearch(Xtr, ytr, opt); 
+
+                t_left = 0;
+                t_right = max(tolerance, 1/sum(ytr==-1));
+                w = SVMpAUC_TIGHT(Xtr, ytr, t_left, t_right, best_lambda, 1e-4, 0);
+                pdt = Xte*w;
+
+                %update global result
+                VPDT = [VPDT, pdt];
+                METHOD = [METHOD, 'SVM_pAUC'];
+            end
+            toc
+
+            %% TopPush OOB
+            tic
+            if TopPush_OOB
+                fprintf('TopPush OOB GridSearch start. \n');
+                oob_opt = [];
+                oob_opt.tolerance = tolerance;  
+                oob_opt.bn = bn;
+                oob_opt.sr = sr;
+                oob_opt.fsr = 1; 
+                oob_opt.wk_learner_train = @topPushTrain;
+                oob_opt.lambda_lb = 1e-3;
+                oob_opt.lambda_ub = 1e3;
+                oob_opt.lambda_factor = step_size;
+                [topPush_OOBModel, best_lambda, best_btpr] = OOB_GridSearch(Xtr, ytr, oob_opt); 
+                fprintf('Best lambda: %f, best_btpr: %f.\n', best_lambda, best_btpr);
+                save (strcat(data_id, '_TopPushOOBModel'), 'topPush_OOBModel', 'best_lambda', 'best_btpr');
+                
+                %wkr_opt initialization
+                toppush_opt = [];
+                toppush_opt.lambda =  best_lambda;
+                toppush_opt.maxIter = 10000;
+                toppush_opt.tol = 1e-4;
+                toppush_opt.debug = false;
+                %calculate real b and w
+                model = topPushTrain(Xtr, ytr, wkr_opt);
+                pdt = modelPredict(model, Xte, 'SCORE');
+
+                %update global result
+                VPDT = [VPDT, pdt];
+                METHOD = [METHOD, 'TOP PUSH OOB'];
+            end
+            toc
+            
+            %% TopKPush OOB
+            tic
+            if TopKPush_OOB
+                fprintf('TopKPush OOB GridSearch start. \n');
+                koob_opt = [];
+                koob_opt.tolerance = tolerance;  
+                koob_opt.bn = bn;
+                koob_opt.sr = sr;
+                koob_opt.fsr = 1; 
+                koob_opt.wk_learner_train = @topKPushPreciseTrain;
+                koob_opt.lambda_lb = 1e-3;
+                koob_opt.lambda_ub = 1e3;
+                koob_opt.lambda_factor = step_size;
+                koob_opt.k = tolerance;
+                [topKPush_OOBModel, best_lambda, best_btpr] = OOB_GridSearch(Xtr, ytr, koob_opt); 
+                fprintf('Best lambda: %f, best_btpr: %f.\n', best_lambda, best_btpr);
+                save (strcat(data_id, '_TopKPushOOBModel'), 'topKPush_OOBModel', 'best_lambda', 'best_btpr');
+                
+                topkpush_opt = [];
+                topkpush_opt.lambda =  best_lambda;
+                topkpush_opt.maxIter = 10000;
+                topkpush_opt.tol = 1e-4;
+                topkpush_opt.debug = false;
+                topkpush_opt.k = tolerance;
+                %calculate real b and w
+                model = topKPushPreciseTrain(Xtr, ytr, topkpush_opt);
+                pdt = modelPredict(model, Xte, 'SCORE');
+
+                %update global result
+                VPDT = [VPDT, pdt];
+                METHOD = [METHOD, 'TOP K PRECISE PUSH OOB'];
+            end
+            toc
+
+            %% Evaluation and Plotting 
+            M = size(METHOD, 2);
+            auc = zeros(1, M);
+            btpr = zeros(1, M);
+            np_score = zeros(1, M);
+            FPR = zeros(1, M);
+            TPR = zeros(1, M);
+
+            for i = 1: M
+                [auc(1, i), ~, ~, btpr(1, i)] = calculate_roc(VPDT(:, i), yte, 1, -1, tolerance);
+            end
+
+            auc_result{i_tol, round} = auc;
+            btpr_result{i_tol, round} = btpr;
+        end
+        %save result of this dataset
+        save (data_id, 'auc_result', 'btpr_result', 'METHOD', 'ts', 'round');
+    end     
+end
+
+diary off;

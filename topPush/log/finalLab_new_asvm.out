@@ -1,0 +1,868 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Current Time: 2017     2    20     3    16    47
+round: 1, tol: 0.000100 .
+Accuracy = 49.6916% (2256/4540) (classification)
+Accuracy = 50.8041% (2306/4539) (classification)
+Accuracy = 49.6805% (2255/4539) (classification)
+Accuracy = 48.1824% (2187/4539) (classification)
+Accuracy = 50.1212% (2275/4539) (classification)
+Accuracy = 29.4714% (1338/4540) (classification)
+Accuracy = 27.9797% (1270/4539) (classification)
+Accuracy = 29.6982% (1348/4539) (classification)
+Accuracy = 28.2% (1280/4539) (classification)
+Accuracy = 29.2796% (1329/4539) (classification)
+Accuracy = 23.2819% (1057/4540) (classification)
+Accuracy = 23.0227% (1045/4539) (classification)
+Accuracy = 24.1243% (1095/4539) (classification)
+Accuracy = 23.1549% (1051/4539) (classification)
+Accuracy = 23.5074% (1067/4539) (classification)
+Accuracy = 31.4537% (1428/4540) (classification)
+Accuracy = 34.9857% (1588/4539) (classification)
+Accuracy = 38.9072% (1766/4539) (classification)
+Accuracy = 35.7788% (1624/4539) (classification)
+Accuracy = 34.8535% (1582/4539) (classification)
+Accuracy = 39.4714% (1792/4540) (classification)
+Accuracy = 38.2243% (1735/4539) (classification)
+Accuracy = 38.1582% (1732/4539) (classification)
+Accuracy = 37.0787% (1683/4539) (classification)
+Accuracy = 37.1447% (1686/4539) (classification)
+Accuracy = 23.0176% (1045/4540) (classification)
+Accuracy = 23.6396% (1073/4539) (classification)
+Accuracy = 24.1463% (1096/4539) (classification)
+Accuracy = 23.3972% (1062/4539) (classification)
+Accuracy = 23.1328% (1050/4539) (classification)
+Accuracy = 26.2335% (1191/4540) (classification)
+Accuracy = 75.6554% (3434/4539) (classification)
+Accuracy = 38.4887% (1747/4539) (classification)
+Accuracy = 30.249% (1373/4539) (classification)
+Accuracy = 72.505% (3291/4539) (classification)
+Accuracy = 80.7048% (3664/4540) (classification)
+Accuracy = 79.3126% (3600/4539) (classification)
+Accuracy = 77.0875% (3499/4539) (classification)
+Accuracy = 79.9295% (3628/4539) (classification)
+Accuracy = 75.6334% (3433/4539) (classification)
+Accuracy = 80.1982% (3641/4540) (classification)
+Accuracy = 80.3922% (3649/4539) (classification)
+Accuracy = 78.7618% (3575/4539) (classification)
+Accuracy = 80.3701% (3648/4539) (classification)
+Accuracy = 80.1498% (3638/4539) (classification)
+...
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 3099
+real -bias: 14216.326795, real gamma: 283.388470obj = 42.725654, rho = 25.082754
+nSV = 6817, nBSV = 6800
+Total nSV = 6817
+Accuracy = 80.3852% (7930/9865) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000592 seconds.
+Elapsed time is 0.000349 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000517 seconds.
+Elapsed time is 0.000455 seconds.
+Elapsed time is 0.000453 seconds.
+Elapsed time is 0.001283 seconds.
+Current Time: 2017     2    20     3    23     2
+round: 1, tol: 0.001000 .
+Accuracy = 49.6476% (2254/4540) (classification)
+Accuracy = 50.1652% (2277/4539) (classification)
+Accuracy = 50.2754% (2282/4539) (classification)
+Accuracy = 49.989% (2269/4539) (classification)
+Accuracy = 48.623% (2207/4539) (classification)
+Accuracy = 30.9031% (1403/4540) (classification)
+Accuracy = 28.3102% (1285/4539) (classification)
+Accuracy = 27.6052% (1253/4539) (classification)
+Accuracy = 28.5525% (1296/4539) (classification)
+Accuracy = 28.9932% (1316/4539) (classification)
+Accuracy = 23.8106% (1081/4540) (classification)
+Accuracy = 21.7228% (986/4539) (classification)
+Accuracy = 24.2785% (1102/4539) (classification)
+Accuracy = 23.4633% (1065/4539) (classification)
+Accuracy = 24.2344% (1100/4539) (classification)
+Accuracy = 25.8811% (1175/4540) (classification)
+Accuracy = 35.933% (1631/4539) (classification)
+Accuracy = 35.2721% (1601/4539) (classification)
+Accuracy = 37.2769% (1692/4539) (classification)
+Accuracy = 41.1544% (1868/4539) (classification)
+Accuracy = 38.8767% (1765/4540) (classification)
+Accuracy = 39.2157% (1780/4539) (classification)
+Accuracy = 38.731% (1758/4539) (classification)
+Accuracy = 36.7922% (1670/4539) (classification)
+Accuracy = 37.4091% (1698/4539) (classification)
+Accuracy = 23.7225% (1077/4540) (classification)
+Accuracy = 21.855% (992/4539) (classification)
+Accuracy = 24.1683% (1097/4539) (classification)
+Accuracy = 23.0007% (1044/4539) (classification)
+Accuracy = 23.948% (1087/4539) (classification)
+Accuracy = 75.1542% (3412/4540) (classification)
+Accuracy = 70.5001% (3200/4539) (classification)
+Accuracy = 73.8489% (3352/4539) (classification)
+Accuracy = 33.6197% (1526/4539) (classification)
+Accuracy = 70.0375% (3179/4539) (classification)
+Accuracy = 72.7753% (3304/4540) (classification)
+Accuracy = 78.5415% (3565/4539) (classification)
+Accuracy = 80.1498% (3638/4539) (classification)
+Accuracy = 81.8683% (3716/4539) (classification)
+Accuracy = 79.4889% (3608/4539) (classification)
+Accuracy = 79.8899% (3627/4540) (classification)
+Accuracy = 81.2954% (3690/4539) (classification)
+Accuracy = 79.2245% (3596/4539) (classification)
+Accuracy = 80.1278% (3637/4539) (classification)
+Accuracy = 79.4228% (3605/4539) (classification)
+...
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 3099
+real -bias: 14216.326795, real gamma: 283.388470obj = 42.725654, rho = 25.082754
+nSV = 6817, nBSV = 6800
+Total nSV = 6817
+Accuracy = 80.3852% (7930/9865) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000021 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.001461 seconds.
+Current Time: 2017     2    20     3    29    18
+round: 1, tol: 0.010000 .
+Accuracy = 49.6035% (2252/4540) (classification)
+Accuracy = 49.4602% (2245/4539) (classification)
+Accuracy = 45.4726% (2064/4539) (classification)
+Accuracy = 49.3501% (2240/4539) (classification)
+Accuracy = 49.9009% (2265/4539) (classification)
+Accuracy = 30.2863% (1375/4540) (classification)
+Accuracy = 29.2796% (1329/4539) (classification)
+Accuracy = 27.8475% (1264/4539) (classification)
+Accuracy = 29.2796% (1329/4539) (classification)
+Accuracy = 27.3629% (1242/4539) (classification)
+Accuracy = 24.7357% (1123/4540) (classification)
+Accuracy = 23.2871% (1057/4539) (classification)
+Accuracy = 23.4853% (1066/4539) (classification)
+Accuracy = 24.0141% (1090/4539) (classification)
+Accuracy = 21.9211% (995/4539) (classification)
+Accuracy = 28.2379% (1282/4540) (classification)
+Accuracy = 33.7519% (1532/4539) (classification)
+Accuracy = 44.2168% (2007/4539) (classification)
+Accuracy = 37.7616% (1714/4539) (classification)
+Accuracy = 28.178% (1279/4539) (classification)
+Accuracy = 38.6344% (1754/4540) (classification)
+Accuracy = 36.2635% (1646/4539) (classification)
+Accuracy = 38.753% (1759/4539) (classification)
+Accuracy = 38.2022% (1734/4539) (classification)
+Accuracy = 37.6074% (1707/4539) (classification)
+Accuracy = 24.5374% (1114/4540) (classification)
+Accuracy = 23.1549% (1051/4539) (classification)
+Accuracy = 23.4853% (1066/4539) (classification)
+Accuracy = 23.97% (1088/4539) (classification)
+Accuracy = 21.8771% (993/4539) (classification)
+Accuracy = 31.7181% (1440/4540) (classification)
+Accuracy = 31.3285% (1422/4539) (classification)
+Accuracy = 76.4265% (3469/4539) (classification)
+Accuracy = 33.2893% (1511/4539) (classification)
+Accuracy = 28.5305% (1295/4539) (classification)
+Accuracy = 78.1718% (3549/4540) (classification)
+Accuracy = 81.0311% (3678/4539) (classification)
+Accuracy = 77.4179% (3514/4539) (classification)
+Accuracy = 79.0703% (3589/4539) (classification)
+Accuracy = 80.5464% (3656/4539) (classification)
+Accuracy = 78.5022% (3564/4540) (classification)
+Accuracy = 80.4142% (3650/4539) (classification)
+Accuracy = 80.26% (3643/4539) (classification)
+Accuracy = 79.599% (3613/4539) (classification)
+Accuracy = 81.2734% (3689/4539) (classification)
+...
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 3099
+real -bias: 14216.326795, real gamma: 283.388470obj = 42.725654, rho = 25.082754
+nSV = 6817, nBSV = 6800
+Total nSV = 6817
+Accuracy = 80.3852% (7930/9865) (classification)
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000025 seconds.
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000016 seconds.
+Current Time: 2017     2    20     3    35    33
+round: 1, tol: 0.100000 .
+Accuracy = 47.9515% (2177/4540) (classification)
+Accuracy = 50.3195% (2284/4539) (classification)
+Accuracy = 49.9009% (2265/4539) (classification)
+Accuracy = 49.7466% (2258/4539) (classification)
+Accuracy = 48.0502% (2181/4539) (classification)
+Accuracy = 27.3568% (1242/4540) (classification)
+Accuracy = 29.8744% (1356/4539) (classification)
+Accuracy = 27.7154% (1258/4539) (classification)
+Accuracy = 30.8218% (1399/4539) (classification)
+Accuracy = 29.6541% (1346/4539) (classification)
+Accuracy = 23.5242% (1068/4540) (classification)
+Accuracy = 22.8024% (1035/4539) (classification)
+Accuracy = 23.0447% (1046/4539) (classification)
+Accuracy = 23.948% (1087/4539) (classification)
+Accuracy = 23.97% (1088/4539) (classification)
+Accuracy = 35.7709% (1624/4540) (classification)
+Accuracy = 37.2769% (1692/4539) (classification)
+Accuracy = 40.9562% (1859/4539) (classification)
+Accuracy = 39.6563% (1800/4539) (classification)
+Accuracy = 34.9196% (1585/4539) (classification)
+Accuracy = 36.8282% (1672/4540) (classification)
+Accuracy = 37.9379% (1722/4539) (classification)
+Accuracy = 38.048% (1727/4539) (classification)
+Accuracy = 38.048% (1727/4539) (classification)
+Accuracy = 38.0921% (1729/4539) (classification)
+Accuracy = 23.7885% (1080/4540) (classification)
+Accuracy = 23.1989% (1053/4539) (classification)
+Accuracy = 22.6702% (1029/4539) (classification)
+Accuracy = 23.6616% (1074/4539) (classification)
+Accuracy = 23.97% (1088/4539) (classification)
+Accuracy = 73.1057% (3319/4540) (classification)
+Accuracy = 32.0335% (1454/4539) (classification)
+Accuracy = 64.8601% (2944/4539) (classification)
+Accuracy = 33.1571% (1505/4539) (classification)
+Accuracy = 72.8354% (3306/4539) (classification)
+Accuracy = 81.7841% (3713/4540) (classification)
+Accuracy = 76.0961% (3454/4539) (classification)
+Accuracy = 80.3261% (3646/4539) (classification)
+Accuracy = 80.8989% (3672/4539) (classification)
+Accuracy = 80.4803% (3653/4539) (classification)
+Accuracy = 79.9339% (3629/4540) (classification)
+Accuracy = 80.1058% (3636/4539) (classification)
+Accuracy = 80.4583% (3652/4539) (classification)
+Accuracy = 79.6651% (3616/4539) (classification)
+Accuracy = 79.6211% (3614/4539) (classification)
+...
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 3099
+real -bias: 14216.326795, real gamma: 283.388470obj = 42.725654, rho = 25.082754
+nSV = 6817, nBSV = 6800
+Total nSV = 6817
+Accuracy = 80.3852% (7930/9865) (classification)
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000021 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000016 seconds.
+Current Time: 2017     2    20     3    41    49
+round: 1, tol: 0.000100 .
+Accuracy = 5.9799% (595/9950) (classification)
+Accuracy = 5.68844% (566/9950) (classification)
+Accuracy = 5.19598% (517/9950) (classification)
+Accuracy = 5.56784% (554/9950) (classification)
+Accuracy = 6.0006% (597/9949) (classification)
+Accuracy = 3.37688% (336/9950) (classification)
+Accuracy = 3.21608% (320/9950) (classification)
+Accuracy = 3.34673% (333/9950) (classification)
+Accuracy = 3.31658% (330/9950) (classification)
+Accuracy = 3.13599% (312/9949) (classification)
+Accuracy = 98.0804% (9759/9950) (classification)
+Accuracy = 98.1005% (9761/9950) (classification)
+Accuracy = 97.9095% (9742/9950) (classification)
+Accuracy = 97.809% (9732/9950) (classification)
+Accuracy = 97.6581% (9716/9949) (classification)
+Accuracy = 98.4824% (9799/9950) (classification)
+Accuracy = 98.5126% (9802/9950) (classification)
+Accuracy = 98.5528% (9806/9950) (classification)
+Accuracy = 98.4221% (9793/9950) (classification)
+Accuracy = 98.5325% (9803/9949) (classification)
+...........*...*
+optimization finished, #iter = 14352
+real -bias: 17.011497, real gamma: 4.981535obj = 30.419022, rho = 1.707455
+nSV = 1590, nBSV = 1405
+Total nSV = 1590
+Accuracy = 98.5018% (14727/14951) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000019 seconds.
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000016 seconds.
+Current Time: 2017     2    20     3    45    56
+round: 1, tol: 0.001000 .
+Accuracy = 5.18593% (516/9950) (classification)
+Accuracy = 4.51256% (449/9950) (classification)
+Accuracy = 6.07035% (604/9950) (classification)
+Accuracy = 6.90452% (687/9950) (classification)
+Accuracy = 5.99055% (596/9949) (classification)
+Accuracy = 3.72864% (371/9950) (classification)
+Accuracy = 2.84422% (283/9950) (classification)
+Accuracy = 3.27638% (326/9950) (classification)
+Accuracy = 3.17588% (316/9950) (classification)
+Accuracy = 3.27671% (326/9949) (classification)
+Accuracy = 98.0503% (9756/9950) (classification)
+Accuracy = 98.1709% (9768/9950) (classification)
+Accuracy = 98.2412% (9775/9950) (classification)
+Accuracy = 97.8693% (9738/9950) (classification)
+Accuracy = 98.0702% (9757/9949) (classification)
+Accuracy = 98.3819% (9789/9950) (classification)
+Accuracy = 98.5025% (9801/9950) (classification)
+Accuracy = 98.4523% (9796/9950) (classification)
+Accuracy = 98.4422% (9795/9950) (classification)
+Accuracy = 98.5928% (9809/9949) (classification)
+...........*...*
+optimization finished, #iter = 14352
+real -bias: 17.011497, real gamma: 4.981535obj = 30.419022, rho = 1.707455
+nSV = 1590, nBSV = 1405
+Total nSV = 1590
+Accuracy = 98.5018% (14727/14951) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000020 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000016 seconds.
+Current Time: 2017     2    20     3    50     0
+round: 1, tol: 0.010000 .
+Accuracy = 6.0804% (605/9950) (classification)
+Accuracy = 7.00503% (697/9950) (classification)
+Accuracy = 6.91457% (688/9950) (classification)
+Accuracy = 5.92965% (590/9950) (classification)
+Accuracy = 5.40758% (538/9949) (classification)
+Accuracy = 3.75879% (374/9950) (classification)
+Accuracy = 3.10553% (309/9950) (classification)
+Accuracy = 3.00503% (299/9950) (classification)
+Accuracy = 3.27638% (326/9950) (classification)
+Accuracy = 3.43753% (342/9949) (classification)
+Accuracy = 98.0201% (9753/9950) (classification)
+Accuracy = 97.8492% (9736/9950) (classification)
+Accuracy = 97.8794% (9739/9950) (classification)
+Accuracy = 97.9397% (9745/9950) (classification)
+Accuracy = 98.0199% (9752/9949) (classification)
+Accuracy = 98.2613% (9777/9950) (classification)
+Accuracy = 98.4824% (9799/9950) (classification)
+Accuracy = 98.6633% (9817/9950) (classification)
+Accuracy = 98.4824% (9799/9950) (classification)
+Accuracy = 98.4823% (9798/9949) (classification)
+.........
+WARNING: using -h 0 may be faster
+....
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 13610
+real -bias: 0.000212, real gamma: 0.000055obj = 1765.286671, rho = 1.920236
+nSV = 1848, nBSV = 809
+Total nSV = 1848
+Accuracy = 98.1473% (14674/14951) (classification)
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000022 seconds.
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000017 seconds.
+Current Time: 2017     2    20     3    54    11
+round: 1, tol: 0.100000 .
+Accuracy = 5.32663% (530/9950) (classification)
+Accuracy = 5.8995% (587/9950) (classification)
+Accuracy = 4.58291% (456/9950) (classification)
+Accuracy = 5.8593% (583/9950) (classification)
+Accuracy = 6.32224% (629/9949) (classification)
+Accuracy = 3.56784% (355/9950) (classification)
+Accuracy = 3.30653% (329/9950) (classification)
+Accuracy = 3.03518% (302/9950) (classification)
+Accuracy = 3.20603% (319/9950) (classification)
+Accuracy = 3.47774% (346/9949) (classification)
+Accuracy = 98.3317% (9784/9950) (classification)
+Accuracy = 98.1608% (9767/9950) (classification)
+Accuracy = 97.6281% (9714/9950) (classification)
+Accuracy = 97.8995% (9741/9950) (classification)
+Accuracy = 97.8892% (9739/9949) (classification)
+Accuracy = 98.3317% (9784/9950) (classification)
+Accuracy = 98.5226% (9803/9950) (classification)
+Accuracy = 98.7739% (9828/9950) (classification)
+Accuracy = 98.3618% (9787/9950) (classification)
+Accuracy = 98.4119% (9791/9949) (classification)
+.........
+WARNING: using -h 0 may be faster
+....
+WARNING: using -h 0 may be faster
+*
+optimization finished, #iter = 13610
+real -bias: 0.000212, real gamma: 0.000055obj = 1765.286671, rho = 1.920236
+nSV = 1848, nBSV = 809
+Total nSV = 1848
+Accuracy = 98.1473% (14674/14951) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000022 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000017 seconds.
+Current Time: 2017     2    20     3    58    45
+round: 1, tol: 0.000100 .
+Accuracy = 85.2556% (3452/4049) (classification)
+Accuracy = 86.6387% (3508/4049) (classification)
+Accuracy = 85.746% (3471/4048) (classification)
+Accuracy = 86.6601% (3508/4048) (classification)
+Accuracy = 85.5237% (3462/4048) (classification)
+Accuracy = 42.8007% (1733/4049) (classification)
+Accuracy = 40.5285% (1641/4049) (classification)
+Accuracy = 42.7619% (1731/4048) (classification)
+Accuracy = 41.9219% (1697/4048) (classification)
+Accuracy = 42.7866% (1732/4048) (classification)
+Accuracy = 50.8521% (2059/4049) (classification)
+Accuracy = 47.2956% (1915/4049) (classification)
+Accuracy = 49.1107% (1988/4048) (classification)
+Accuracy = 49.3577% (1998/4048) (classification)
+Accuracy = 50.42% (2041/4048) (classification)
+Accuracy = 96.3695% (3902/4049) (classification)
+Accuracy = 96.3942% (3903/4049) (classification)
+Accuracy = 96.6403% (3912/4048) (classification)
+Accuracy = 96.1957% (3894/4048) (classification)
+Accuracy = 96.1709% (3893/4048) (classification)
+Accuracy = 90.7138% (3673/4049) (classification)
+Accuracy = 91.6276% (3710/4049) (classification)
+Accuracy = 90.1433% (3649/4048) (classification)
+Accuracy = 91.2302% (3693/4048) (classification)
+Accuracy = 90.9338% (3681/4048) (classification)
+Accuracy = 40.3803% (1635/4049) (classification)
+Accuracy = 38.3058% (1551/4049) (classification)
+Accuracy = 40.4397% (1637/4048) (classification)
+Accuracy = 39.5998% (1603/4048) (classification)
+Accuracy = 40.9091% (1656/4048) (classification)
+Accuracy = 97.1104% (3932/4049) (classification)
+Accuracy = 97.0116% (3928/4049) (classification)
+Accuracy = 96.9368% (3924/4048) (classification)
+Accuracy = 96.9615% (3925/4048) (classification)
+Accuracy = 96.6897% (3914/4048) (classification)
+Accuracy = 97.0857% (3931/4049) (classification)
+Accuracy = 96.8881% (3923/4049) (classification)
+Accuracy = 96.8626% (3921/4048) (classification)
+Accuracy = 96.8132% (3919/4048) (classification)
+Accuracy = 96.5662% (3909/4048) (classification)
+Accuracy = 91.8498% (3719/4049) (classification)
+Accuracy = 92.3191% (3738/4049) (classification)
+Accuracy = 91.7243% (3713/4048) (classification)
+Accuracy = 92.5642% (3747/4048) (classification)
+Accuracy = 91.6502% (3710/4048) (classification)
+..........*..*
+optimization finished, #iter = 11726
+real -bias: -0.056054, real gamma: 1.151468obj = 622.597999, rho = -0.024340
+nSV = 5627, nBSV = 3120
+Total nSV = 5627
+Accuracy = 96.1941% (651618/677399) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000032 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000016 seconds.
+Current Time: 2017     2    20     5    46     5
+round: 1, tol: 0.001000 .
+Accuracy = 85.7743% (3473/4049) (classification)
+Accuracy = 86.861% (3517/4049) (classification)
+Accuracy = 85.9931% (3481/4048) (classification)
+Accuracy = 87.6482% (3548/4048) (classification)
+Accuracy = 84.9061% (3437/4048) (classification)
+Accuracy = 43.4428% (1759/4049) (classification)
+Accuracy = 41.2448% (1670/4049) (classification)
+Accuracy = 42.663% (1727/4048) (classification)
+Accuracy = 41.7984% (1692/4048) (classification)
+Accuracy = 41.6996% (1688/4048) (classification)
+Accuracy = 51.0743% (2068/4049) (classification)
+Accuracy = 48.6046% (1968/4049) (classification)
+Accuracy = 50.5682% (2047/4048) (classification)
+Accuracy = 48.5919% (1967/4048) (classification)
+Accuracy = 48.1225% (1948/4048) (classification)
+Accuracy = 96.4436% (3905/4049) (classification)
+Accuracy = 96.814% (3920/4049) (classification)
+Accuracy = 96.6403% (3912/4048) (classification)
+Accuracy = 95.6522% (3872/4048) (classification)
+Accuracy = 96.1215% (3891/4048) (classification)
+Accuracy = 90.5656% (3667/4049) (classification)
+Accuracy = 91.1336% (3690/4049) (classification)
+Accuracy = 90.1186% (3648/4048) (classification)
+Accuracy = 91.2796% (3695/4048) (classification)
+Accuracy = 90.5138% (3664/4048) (classification)
+Accuracy = 40.7261% (1649/4049) (classification)
+Accuracy = 38.3551% (1553/4049) (classification)
+Accuracy = 40.7115% (1648/4048) (classification)
+Accuracy = 39.9457% (1617/4048) (classification)
+Accuracy = 39.5257% (1600/4048) (classification)
+Accuracy = 96.9375% (3925/4049) (classification)
+Accuracy = 97.2092% (3936/4049) (classification)
+Accuracy = 97.1344% (3932/4048) (classification)
+Accuracy = 96.3933% (3902/4048) (classification)
+Accuracy = 96.7391% (3916/4048) (classification)
+Accuracy = 96.9375% (3925/4049) (classification)
+Accuracy = 97.1104% (3932/4049) (classification)
+Accuracy = 97.1097% (3931/4048) (classification)
+Accuracy = 96.3686% (3901/4048) (classification)
+Accuracy = 96.665% (3913/4048) (classification)
+Accuracy = 92.6649% (3752/4049) (classification)
+Accuracy = 92.8377% (3759/4049) (classification)
+Accuracy = 91.7984% (3716/4048) (classification)
+Accuracy = 91.7737% (3715/4048) (classification)
+Accuracy = 91.5514% (3706/4048) (classification)
+.........*
+optimization finished, #iter = 9874
+real -bias: -0.659275, real gamma: 1.062478obj = 656.577056, rho = -0.310253
+nSV = 5426, nBSV = 2917
+Total nSV = 5426
+Accuracy = 96.2464% (651972/677399) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000025 seconds.
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000033 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000017 seconds.
+Current Time: 2017     2    20     7    30    16
+round: 1, tol: 0.010000 .
+Accuracy = 86.0953% (3486/4049) (classification)
+Accuracy = 85.799% (3474/4049) (classification)
+Accuracy = 85.1038% (3445/4048) (classification)
+Accuracy = 87.2777% (3533/4048) (classification)
+Accuracy = 85.4249% (3458/4048) (classification)
+Accuracy = 42.282% (1712/4049) (classification)
+Accuracy = 41.1213% (1665/4049) (classification)
+Accuracy = 42.7866% (1732/4048) (classification)
+Accuracy = 41.1561% (1666/4048) (classification)
+Accuracy = 42.6136% (1725/4048) (classification)
+Accuracy = 50.6792% (2052/4049) (classification)
+Accuracy = 47.9625% (1942/4049) (classification)
+Accuracy = 49.4812% (2003/4048) (classification)
+Accuracy = 48.3696% (1958/4048) (classification)
+Accuracy = 50.5435% (2046/4048) (classification)
+Accuracy = 96.0731% (3890/4049) (classification)
+Accuracy = 96.3201% (3900/4049) (classification)
+Accuracy = 96.5168% (3907/4048) (classification)
+Accuracy = 96.3439% (3900/4048) (classification)
+Accuracy = 95.6522% (3872/4048) (classification)
+Accuracy = 90.5903% (3668/4049) (classification)
+Accuracy = 90.8619% (3679/4049) (classification)
+Accuracy = 90.6621% (3670/4048) (classification)
+Accuracy = 91.8725% (3719/4048) (classification)
+Accuracy = 90.6374% (3669/4048) (classification)
+Accuracy = 40.405% (1636/4049) (classification)
+Accuracy = 38.8738% (1574/4049) (classification)
+Accuracy = 40.1186% (1624/4048) (classification)
+Accuracy = 39.3034% (1591/4048) (classification)
+Accuracy = 40.835% (1653/4048) (classification)
+Accuracy = 96.8881% (3923/4049) (classification)
+Accuracy = 96.9869% (3927/4049) (classification)
+Accuracy = 97.4308% (3944/4048) (classification)
+Accuracy = 97.3567% (3941/4048) (classification)
+Accuracy = 95.9486% (3884/4048) (classification)
+Accuracy = 96.8634% (3922/4049) (classification)
+Accuracy = 96.9622% (3926/4049) (classification)
+Accuracy = 97.3073% (3939/4048) (classification)
+Accuracy = 96.9368% (3924/4048) (classification)
+Accuracy = 95.8992% (3882/4048) (classification)
+Accuracy = 91.8992% (3721/4049) (classification)
+Accuracy = 91.8498% (3719/4049) (classification)
+Accuracy = 92.0949% (3728/4048) (classification)
+Accuracy = 92.4407% (3742/4048) (classification)
+Accuracy = 91.4032% (3700/4048) (classification)
+.........*
+optimization finished, #iter = 9874
+real -bias: -0.659275, real gamma: 1.062478obj = 656.577056, rho = -0.310253
+nSV = 5426, nBSV = 2917
+Total nSV = 5426
+Accuracy = 96.2464% (651972/677399) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000027 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000011 seconds.
+Elapsed time is 0.000016 seconds.
+Current Time: 2017     2    20     9    15    48
+round: 1, tol: 0.100000 .
+Accuracy = 85.3297% (3455/4049) (classification)
+Accuracy = 85.9224% (3479/4049) (classification)
+Accuracy = 85.5978% (3465/4048) (classification)
+Accuracy = 85.3508% (3455/4048) (classification)
+Accuracy = 86.9812% (3521/4048) (classification)
+Accuracy = 43.7639% (1772/4049) (classification)
+Accuracy = 41.3929% (1676/4049) (classification)
+Accuracy = 40.7115% (1648/4048) (classification)
+Accuracy = 42.6136% (1725/4048) (classification)
+Accuracy = 41.9466% (1698/4048) (classification)
+Accuracy = 50.8521% (2059/4049) (classification)
+Accuracy = 49.0491% (1986/4049) (classification)
+Accuracy = 48.5178% (1964/4048) (classification)
+Accuracy = 48.9872% (1983/4048) (classification)
+Accuracy = 49.5553% (2006/4048) (classification)
+Accuracy = 96.493% (3907/4049) (classification)
+Accuracy = 96.3942% (3903/4049) (classification)
+Accuracy = 96.5168% (3907/4048) (classification)
+Accuracy = 96.3933% (3902/4048) (classification)
+Accuracy = 96.8379% (3920/4048) (classification)
+Accuracy = 90.4421% (3662/4049) (classification)
+Accuracy = 90.9854% (3684/4049) (classification)
+Accuracy = 90.7609% (3674/4048) (classification)
+Accuracy = 90.6868% (3671/4048) (classification)
+Accuracy = 91.5267% (3705/4048) (classification)
+Accuracy = 41.714% (1689/4049) (classification)
+Accuracy = 39.5159% (1600/4049) (classification)
+Accuracy = 38.7352% (1568/4048) (classification)
+Accuracy = 39.7974% (1611/4048) (classification)
+Accuracy = 40.2174% (1628/4048) (classification)
+Accuracy = 96.7152% (3916/4049) (classification)
+Accuracy = 96.9622% (3926/4049) (classification)
+Accuracy = 96.8132% (3919/4048) (classification)
+Accuracy = 96.9615% (3925/4048) (classification)
+Accuracy = 97.0109% (3927/4048) (classification)
+Accuracy = 96.6658% (3914/4049) (classification)
+Accuracy = 97.1351% (3933/4049) (classification)
+Accuracy = 96.8626% (3921/4048) (classification)
+Accuracy = 96.8132% (3919/4048) (classification)
+Accuracy = 97.0109% (3927/4048) (classification)
+Accuracy = 91.3312% (3698/4049) (classification)
+Accuracy = 92.3438% (3739/4049) (classification)
+Accuracy = 91.996% (3724/4048) (classification)
+Accuracy = 91.8478% (3718/4048) (classification)
+Accuracy = 92.3666% (3739/4048) (classification)
+.........*
+optimization finished, #iter = 9874
+real -bias: -0.659275, real gamma: 1.062478obj = 656.577056, rho = -0.310253
+nSV = 5426, nBSV = 2917
+Total nSV = 5426
+Accuracy = 96.2464% (651972/677399) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000032 seconds.
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000014 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000018 seconds.
+Current Time: 2017     2    20    11     1    46
+round: 1, tol: 0.000100 .
+Accuracy = 26.8854% (2688/9998) (classification)
+Accuracy = 39.4279% (3942/9998) (classification)
+Accuracy = 30.8562% (3085/9998) (classification)
+Accuracy = 31.0562% (3105/9998) (classification)
+Accuracy = 31.0862% (3108/9998) (classification)
+Accuracy = 23.9648% (2396/9998) (classification)
+Accuracy = 23.2046% (2320/9998) (classification)
+Accuracy = 23.8448% (2384/9998) (classification)
+Accuracy = 24.995% (2499/9998) (classification)
+Accuracy = 24.3449% (2434/9998) (classification)
+Accuracy = 40.138% (4013/9998) (classification)
+Accuracy = 57.2615% (5725/9998) (classification)
+Accuracy = 27.2154% (2721/9998) (classification)
+Accuracy = 33.2466% (3324/9998) (classification)
+Accuracy = 80.7261% (8071/9998) (classification)
+Accuracy = 21.3243% (2132/9998) (classification)
+Accuracy = 87.0374% (8702/9998) (classification)
+Accuracy = 75.4351% (7542/9998) (classification)
+Accuracy = 77.2855% (7727/9998) (classification)
+Accuracy = 60.212% (6020/9998) (classification)
+*
+optimization finished, #iter = 494
+real -bias: 49.990131, real gamma: -0.000020obj = 7535036446231.923828, rho = -1227605.459472
+nSV = 1553, nBSV = 1553
+Total nSV = 1553
+Accuracy = 37.0792% (34002/91701) (classification)
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000025 seconds.
+Elapsed time is 0.000005 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000015 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000020 seconds.
+Current Time: 2017     2    20    11     2    47
+round: 1, tol: 0.001000 .
+Accuracy = 50.7101% (5070/9998) (classification)
+Accuracy = 42.0884% (4208/9998) (classification)
+Accuracy = 30.4461% (3044/9998) (classification)
+Accuracy = 30.8462% (3084/9998) (classification)
+Accuracy = 25.4151% (2541/9998) (classification)
+Accuracy = 24.3349% (2433/9998) (classification)
+Accuracy = 24.0348% (2403/9998) (classification)
+Accuracy = 24.6249% (2462/9998) (classification)
+Accuracy = 23.4847% (2348/9998) (classification)
+Accuracy = 23.9648% (2396/9998) (classification)
+Accuracy = 72.2344% (7222/9998) (classification)
+Accuracy = 70.9942% (7098/9998) (classification)
+Accuracy = 52.0704% (5206/9998) (classification)
+Accuracy = 63.1226% (6311/9998) (classification)
+Accuracy = 65.9532% (6594/9998) (classification)
+Accuracy = 70.5541% (7054/9998) (classification)
+Accuracy = 67.5235% (6751/9998) (classification)
+Accuracy = 66.2332% (6622/9998) (classification)
+Accuracy = 55.2711% (5526/9998) (classification)
+Accuracy = 65.9732% (6596/9998) (classification)
+*
+optimization finished, #iter = 494
+real -bias: 49.990131, real gamma: -0.000020obj = 7535036446231.923828, rho = -1227605.459472
+nSV = 1553, nBSV = 1553
+Total nSV = 1553
+Accuracy = 37.0792% (34002/91701) (classification)
+Elapsed time is 0.000003 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000026 seconds.
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000015 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000021 seconds.
+Current Time: 2017     2    20    11     3    47
+round: 1, tol: 0.010000 .
+Accuracy = 19.774% (1977/9998) (classification)
+Accuracy = 18.8838% (1888/9998) (classification)
+Accuracy = 49.2599% (4925/9998) (classification)
+Accuracy = 37.5575% (3755/9998) (classification)
+Accuracy = 27.0254% (2702/9998) (classification)
+Accuracy = 23.1846% (2318/9998) (classification)
+Accuracy = 24.6049% (2460/9998) (classification)
+Accuracy = 24.3049% (2430/9998) (classification)
+Accuracy = 24.3749% (2437/9998) (classification)
+Accuracy = 24.3049% (2430/9998) (classification)
+Accuracy = 39.918% (3991/9998) (classification)
+Accuracy = 27.3455% (2734/9998) (classification)
+Accuracy = 70.214% (7020/9998) (classification)
+Accuracy = 39.3579% (3935/9998) (classification)
+Accuracy = 64.2629% (6425/9998) (classification)
+Accuracy = 46.7994% (4679/9998) (classification)
+Accuracy = 27.1654% (2716/9998) (classification)
+Accuracy = 69.3339% (6932/9998) (classification)
+Accuracy = 24.1648% (2416/9998) (classification)
+Accuracy = 37.9376% (3793/9998) (classification)
+*
+optimization finished, #iter = 384
+real -bias: 4.999030, real gamma: -0.000041obj = 18311551005.580868, rho = -60517.386646
+nSV = 1099, nBSV = 1099
+Total nSV = 1099
+Accuracy = 20.1285% (18458/91701) (classification)
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000023 seconds.
+Elapsed time is 0.000005 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000015 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000020 seconds.
+Current Time: 2017     2    20    11     4    44
+round: 1, tol: 0.100000 .
+Accuracy = 28.6157% (2861/9998) (classification)
+Accuracy = 25.4351% (2543/9998) (classification)
+Accuracy = 33.8368% (3383/9998) (classification)
+Accuracy = 49.0898% (4908/9998) (classification)
+Accuracy = 19.5739% (1957/9998) (classification)
+Accuracy = 25.045% (2504/9998) (classification)
+Accuracy = 24.0348% (2403/9998) (classification)
+Accuracy = 23.8048% (2380/9998) (classification)
+Accuracy = 24.0148% (2401/9998) (classification)
+Accuracy = 23.7447% (2374/9998) (classification)
+Accuracy = 45.9892% (4598/9998) (classification)
+Accuracy = 69.3039% (6929/9998) (classification)
+Accuracy = 82.8466% (8283/9998) (classification)
+Accuracy = 42.5285% (4252/9998) (classification)
+Accuracy = 68.6937% (6868/9998) (classification)
+Accuracy = 37.0274% (3702/9998) (classification)
+Accuracy = 38.6577% (3865/9998) (classification)
+Accuracy = 28.6657% (2866/9998) (classification)
+Accuracy = 61.5523% (6154/9998) (classification)
+Accuracy = 36.4973% (3649/9998) (classification)
+*
+optimization finished, #iter = 384
+real -bias: 4.999030, real gamma: -0.000041obj = 18311551005.580868, rho = -60517.386646
+nSV = 1099, nBSV = 1099
+Total nSV = 1099
+Accuracy = 20.1285% (18458/91701) (classification)
+Elapsed time is 0.000008 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000025 seconds.
+Elapsed time is 0.000005 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000015 seconds.
+Elapsed time is 0.000013 seconds.
+Elapsed time is 0.000012 seconds.
+Elapsed time is 0.000021 seconds.
+>> 

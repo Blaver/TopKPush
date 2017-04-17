@@ -1,0 +1,3033 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> start read data
+Elapsed time is 0.275920 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    28    14
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000004 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4.910417 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    28    19
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 11.884339 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.015036 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    28    31
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 6.792543 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    28    38
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 6.340925 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013429 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    28    44
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.449544 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    28    49
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 6.313588 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015209 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    28    55
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 3.692960 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    28    59
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 6.406205 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013483 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    29     5
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.950882 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    29     8
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 7.405231 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013933 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    29    15
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 7.836030 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    29    23
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 7.615474 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013556 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    29    31
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.558887 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    29    36
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.287840 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013939 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    29    46
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.098813 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    29    50
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 8.595298 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.014483 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    29    59
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.560670 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    30     3
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 6.487967 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013442 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    30    10
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.156845 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    30    14
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 7.751355 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.015313 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    30    22
+round: 1, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 5.509520 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    30    27
+round: 1, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 11.446246 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    30    39
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 25.076192 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    31     4
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 41.132916 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014771 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    31    45
+round: 2, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 6.308170 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    31    51
+round: 2, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 9.928636 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    32     1
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 26.684890 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    32    28
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 39.683742 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015339 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    33     7
+round: 3, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4.590126 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    33    12
+round: 3, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.294369 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    33    20
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 19.314708 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    33    40
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 33.268147 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014677 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    34    13
+round: 4, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.817304 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    34    18
+round: 4, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 9.681957 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    34    27
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 29.487234 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    34    57
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 40.342483 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014786 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    35    37
+round: 5, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4.813100 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    35    42
+round: 5, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 8.678201 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    35    51
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 27.410758 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    36    18
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 52.437038 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015668 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    37    11
+round: 6, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4.358342 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    37    15
+round: 6, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 7.572372 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    37    22
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 18.590522 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    37    41
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 26.165823 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014729 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    38     7
+round: 7, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 5.862812 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    38    13
+round: 7, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.812407 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    38    22
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 25.854715 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    38    48
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 40.331696 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015328 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    39    28
+round: 8, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 5.079951 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    39    33
+round: 8, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 9.981155 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    39    43
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 31.235858 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    40    14
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 37.659191 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014901 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    40    52
+round: 9, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 5.218011 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    40    57
+round: 9, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 9.790116 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    41     7
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 19.300695 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    41    26
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 27.090013 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.015948 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    41    54
+round: 10, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 6.827950 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    42     0
+round: 10, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 13.406604 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    42    14
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 34.897094 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    42    49
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 47.517265 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.055985 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    43    36
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 3.322420 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    43    40
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.130654 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.055375 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    43    44
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.485158 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    43    46
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.266769 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.055466 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    43    51
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.812937 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    43    53
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.302313 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.055534 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    43    58
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 1.867849 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    44     0
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.928015 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.055272 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44     3
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.820222 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    44     5
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 5.243570 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.055248 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44    11
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 3.295131 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    44    14
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.800699 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.055443 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44    19
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 3.674013 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    44    23
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 6.001050 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.056861 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44    29
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 3.772445 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    44    32
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 5.172597 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.055445 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44    38
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.452145 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    44    40
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000005 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 5.150292 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.055649 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44    45
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.854214 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    44    48
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 3.562225 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.014908 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    44    52
+round: 1, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 2.461631 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    44    54
+round: 1, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.309141 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    44    58
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.487722 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    45     7
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 9.605595 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014982 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    45    17
+round: 2, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.442167 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    45    19
+round: 2, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 5.978512 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    45    25
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.076118 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    45    33
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 15.589040 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.015820 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    45    49
+round: 3, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.615048 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    45    51
+round: 3, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.077097 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    45    55
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 8.573331 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    46     4
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 12.400932 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.014823 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    46    16
+round: 4, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.472250 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    46    19
+round: 4, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.845959 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    46    24
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 8.551178 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    46    32
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 15.136471 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014954 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    46    47
+round: 5, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.138214 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    46    50
+round: 5, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 3.679497 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    46    53
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 5.473885 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    46    59
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 11.770203 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015712 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    47    10
+round: 6, tol: 0.005000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 3.265575 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    47    14
+round: 6, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.087886 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    47    18
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.810440 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    47    27
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 12.668817 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014809 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    47    39
+round: 7, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 2.380555 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    47    42
+round: 7, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4.918420 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    47    47
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 7.838840 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    47    54
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.812363 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.014863 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    48     5
+round: 8, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.502459 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    48     8
+round: 8, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 4.266872 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    48    12
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.963155 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    48    21
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 9.799387 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.014883 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    48    31
+round: 9, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 3.381823 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    48    34
+round: 9, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4.185929 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    48    38
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 7.462778 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    48    46
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 10.742595 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.014812 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    48    57
+round: 10, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 2.977022 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    49     0
+round: 10, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 5.333393 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    49     5
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.497416 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    49    13
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 18.038423 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.018827 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    49    32
+round: 1, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 12.514066 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    49    44
+round: 1, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 14.057887 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    49    58
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 28.023981 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    50    26
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 55.352722 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.019401 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    51    21
+round: 2, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 11.474163 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    51    33
+round: 2, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 13.383439 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    51    46
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 25.338792 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    52    12
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 47.718164 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.018745 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    52    59
+round: 3, tol: 0.005000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 12.800579 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    53    12
+round: 3, tol: 0.010000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 15.059716 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    53    27
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 30.405266 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    53    58
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 56.035493 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.009012 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    54    54
+round: 4, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 12.808889 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    55     7
+round: 4, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 16.310625 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    55    23
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 30.462355 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     0    55    53
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 70.173293 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.018584 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    57     4
+round: 5, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 12.226402 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    57    16
+round: 5, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 15.321298 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    57    31
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 40.992358 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    58    12
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 81.302655 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.019232 seconds.
+Read data completed!
+Current Time: 2017     2    24     0    59    33
+round: 6, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 14.714395 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     0    59    48
+round: 6, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 19.882374 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     0     8
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 46.166500 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     0    54
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 88.412027 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.018366 seconds.
+Read data completed!
+Current Time: 2017     2    24     1     2    23
+round: 7, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.867220 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     2    33
+round: 7, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 15.615904 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     2    49
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 32.663954 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     3    22
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 65.016813 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.018556 seconds.
+Read data completed!
+Current Time: 2017     2    24     1     4    27
+round: 8, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.635032 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     4    37
+round: 8, tol: 0.010000 .
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 14.413888 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     4    52
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 28.658186 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     5    20
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 51.530426 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.018428 seconds.
+Read data completed!
+Current Time: 2017     2    24     1     6    12
+round: 9, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 11.071792 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     6    23
+round: 9, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 15.027601 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     6    38
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 31.536051 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     7    10
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 56.909654 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.018548 seconds.
+Read data completed!
+Current Time: 2017     2    24     1     8     7
+round: 10, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 10.371741 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1     8    17
+round: 10, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 13.884987 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     8    31
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 29.204441 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1     9     0
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 54.070423 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013515 seconds.
+Read data completed!
+Current Time: 2017     2    24     1     9    54
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 7.362093 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    10     2
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 11.626236 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013608 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    10    13
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 8.431677 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    10    22
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 13.823377 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013701 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    10    35
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 9.232712 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1    10    45
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 16.274370 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013586 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    11     1
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 6.561637 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1    11     8
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 19.362062 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013641 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    11    27
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 8.311575 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    11    35
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 13.088284 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013569 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    11    48
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 8.417811 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    11    57
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 16.221699 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013640 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    12    13
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 13.618644 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1    12    27
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 20.339235 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013595 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    12    47
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.696222 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    12    58
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 15.908688 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013478 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    13    14
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 9.092922 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    13    23
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 12.298360 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013466 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    13    35
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 10.817815 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    13    46
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 21.095786 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.015445 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    14     7
+round: 1, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 65.438395 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     1    15    12
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 338.933037 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    20    51
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 894.177092 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.016759 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    35    45
+round: 2, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 98.476662 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    37    24
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 309.918569 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    42    34
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 816.853777 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015899 seconds.
+Read data completed!
+Current Time: 2017     2    24     1    56    11
+round: 3, tol: 0.010000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 127.094675 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     1    58    18
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 372.103240 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2     4    30
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 696.277092 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.017283 seconds.
+Read data completed!
+Current Time: 2017     2    24     2    16     6
+round: 4, tol: 0.010000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 60.163440 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2    17     6
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 251.850408 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2    21    18
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 551.301881 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.017088 seconds.
+Read data completed!
+Current Time: 2017     2    24     2    30    30
+round: 5, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 68.889698 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2    31    38
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 352.594518 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2    37    31
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 553.012738 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015997 seconds.
+Read data completed!
+Current Time: 2017     2    24     2    46    44
+round: 6, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 80.827345 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2    48     5
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 322.907022 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     2    53    28
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 508.211654 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015778 seconds.
+Read data completed!
+Current Time: 2017     2    24     3     1    56
+round: 7, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 115.548105 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     3     3    52
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 388.117320 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     3    10    20
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 783.288393 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015488 seconds.
+Read data completed!
+Current Time: 2017     2    24     3    23    23
+round: 8, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 91.820818 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     3    24    55
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 341.998687 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     3    30    37
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000010 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 778.943674 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015760 seconds.
+Read data completed!
+Current Time: 2017     2    24     3    43    36
+round: 9, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 112.554334 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     3    45    28
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 472.955151 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     3    53    21
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 1031.194180 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.015916 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    10    33
+round: 10, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 136.803204 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    12    49
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 436.132240 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    20     5
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 727.011008 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.202988 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    32    13
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 13.502889 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    32    26
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 11.749999 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.196710 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    32    38
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.994848 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    32    49
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 18.927085 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.191915 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    33     8
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 17.804689 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    33    26
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 15.241587 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.193268 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    33    41
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 20.625424 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    34     2
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 25.281668 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.193258 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    34    28
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 24.698946 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    34    52
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 19.886006 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.194123 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    35    12
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 10.240296 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    35    23
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 24.078659 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.195026 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    35    47
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 13.594348 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    36     0
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 23.895717 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.194944 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    36    25
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 7.853036 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    36    32
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 17.524333 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.193317 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    36    50
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 16.281360 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    37     6
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 34.505909 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.194389 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    37    41
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 11.552440 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    37    53
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 25.522196 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013345 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    18
+round: 1, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 6.111804e-10)
+Elapsed time is 1.584262 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    38    20
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.492460e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.862645e-09)
+Elapsed time is 2.061910 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    22
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.022187e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.072193e-08)
+Elapsed time is 2.527495 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013200 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    24
+round: 2, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.492460e-10)
+Elapsed time is 1.759512 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    26
+round: 2, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 6.984919e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.080395e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.313226e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.470348e-08)
+Elapsed time is 2.565552 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    38    29
+round: 2, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.862645e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 7.450581e-09)
+Elapsed time is 4.912769 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013233 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    34
+round: 3, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.619345e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.313226e-10)
+Elapsed time is 1.738308 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    35
+round: 3, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 5.820766e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.725290e-09)
+Elapsed time is 2.318028 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    38    38
+round: 3, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.656613e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.396984e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.235174e-08)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.920853e-09)
+Elapsed time is 2.457198 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013223 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    40
+round: 4, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.910383e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.037268e-10)
+Elapsed time is 1.561314 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    42
+round: 4, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.259629e-09)
+Elapsed time is 2.080380 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    44
+round: 4, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 6.621121e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.725290e-08)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.313226e-09)
+Elapsed time is 2.236799 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013198 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    46
+round: 5, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.328306e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.328306e-10)
+Elapsed time is 1.740925 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    38    48
+round: 5, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 6.984919e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.746230e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 8.847564e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.862645e-09)
+Elapsed time is 1.902861 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    38    50
+round: 5, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-10)
+Elapsed time is 2.037089 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013179 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    52
+round: 6, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.018634e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.246452e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.492460e-10)
+Elapsed time is 1.516030 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    53
+round: 6, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.328306e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.259629e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 6.519258e-09)
+Elapsed time is 2.218418 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    38    56
+round: 6, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.619345e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.793968e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.608875e-08)
+Elapsed time is 2.569836 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+start read data
+Elapsed time is 0.013221 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    38    58
+round: 7, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 5.820766e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.600711e-10)
+Elapsed time is 1.602552 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    39     0
+round: 7, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.032276e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.313226e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.838068e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.473826e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.656613e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.889444e-09)
+Elapsed time is 2.300784 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    39     2
+round: 7, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 7.683411e-09)
+Elapsed time is 6.145452 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013283 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    39     8
+round: 8, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.018634e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.746230e-10)
+Elapsed time is 1.970376 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    39    10
+round: 8, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.746230e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.193257e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.656613e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.492460e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.313226e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.490116e-08)
+Elapsed time is 2.466742 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    39    13
+round: 8, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 3.492460e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.656613e-08)
+Elapsed time is 15.526524 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013367 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    39    28
+round: 9, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 1.371554 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    39    30
+round: 9, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 6.984919e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.190952e-09)
+Elapsed time is 4.297011 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    39    34
+round: 9, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.910383e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.328306e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 5.122274e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.793968e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.502929e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 9.313226e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 4.563481e-08)
+Elapsed time is 4.695036 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.013311 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    39    39
+round: 10, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 1.164153e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.328306e-10)
+Elapsed time is 1.579272 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     4    39    40
+round: 10, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.095476e-09)
+Elapsed time is 3.542116 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    39    44
+round: 10, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 2.910383e-10)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 7.450580e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 7.450581e-09)
+ERROR: MVC wrong!!! (Difference between old slack and new slack values = 7.450581e-09)
+Elapsed time is 8.199196 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+start read data
+Elapsed time is 0.129726 seconds.
+Read data completed!
+Current Time: 2017     2    24     4    39    52
+round: 1, tol: 0.000100 .
+Elapsed time is 0.000002 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 451.659357 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     4    47    24
+round: 1, tol: 0.000500 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 1325.956537 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    24     5     9    30
+round: 1, tol: 0.001000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 4071.011546 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24     6    17    21
+round: 1, tol: 0.005000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 23111.194474 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     2    24    12    42    32
+round: 1, tol: 0.010000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 44585.857453 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Current Time: 2017     2    25     1     5    38
+round: 1, tol: 0.050000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 550560.067913 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Current Time: 2017     3     3    10     1    38
+round: 1, tol: 0.100000 .
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000001 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000000 seconds.
+Elapsed time is 0.000001 seconds.

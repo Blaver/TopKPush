@@ -1,0 +1,136 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> Current Time: 2017     2    19    15    27    10
+round: 1, tol: 0.000100 .
+Accuracy = 96.3264% (652514/677399)
+Elapsed time is 36.178746 seconds.
+Accuracy = 58.723% (397789/677399)
+Elapsed time is 36.162732 seconds.
+Accuracy = 57.1369% (387045/677399)
+Elapsed time is 71.652086 seconds.
+Accuracy = 96.1261% (651157/677399)
+Elapsed time is 16.284865 seconds.
+Elapsed time is 51.447907 seconds.
+Elapsed time is 46.851324 seconds.
+Elapsed time is 44.075645 seconds.
+Elapsed time is 50.469247 seconds.
+Elapsed time is 58.319765 seconds.
+Elapsed time is 43.780413 seconds.
+Elapsed time is 56.901385 seconds.
+Elapsed time is 54.351232 seconds.
+Current Time: 2017     2    19    15    36    39
+round: 1, tol: 0.001000 .
+Accuracy = 96.3264% (652514/677399)
+Elapsed time is 39.270621 seconds.
+Accuracy = 78.3408% (530680/677399)
+Elapsed time is 39.637824 seconds.
+Accuracy = 59.3302% (401902/677399)
+Elapsed time is 77.632713 seconds.
+Accuracy = 96.1261% (651157/677399)
+Elapsed time is 19.263432 seconds.
+Elapsed time is 51.456193 seconds.
+Elapsed time is 49.042780 seconds.
+Elapsed time is 46.257440 seconds.
+Elapsed time is 52.755417 seconds.
+Elapsed time is 59.454168 seconds.
+Elapsed time is 56.564157 seconds.
+Elapsed time is 53.917130 seconds.
+Elapsed time is 52.310666 seconds.
+Current Time: 2017     2    19    15    46    39
+round: 1, tol: 0.010000 .
+Accuracy = 96.3264% (652514/677399)
+Elapsed time is 36.181816 seconds.
+Accuracy = 91.7399% (621445/677399)
+Elapsed time is 36.581289 seconds.
+Accuracy = 91.9595% (622933/677399)
+Elapsed time is 75.259116 seconds.
+Accuracy = 95.929% (649822/677399)
+Elapsed time is 16.450166 seconds.
+Elapsed time is 51.241114 seconds.
+Elapsed time is 55.607459 seconds.
+Elapsed time is 55.401473 seconds.
+Elapsed time is 54.365498 seconds.
+Elapsed time is 41.999590 seconds.
+Elapsed time is 51.634930 seconds.
+Elapsed time is 48.451770 seconds.
+Elapsed time is 59.476417 seconds.
+Current Time: 2017     2    19    15    56    24
+round: 1, tol: 0.100000 .
+Accuracy = 96.3264% (652514/677399)
+Elapsed time is 39.290832 seconds.
+Accuracy = 93.4545% (633060/677399)
+Elapsed time is 41.149160 seconds.
+Accuracy = 96.3264% (652514/677399)
+Elapsed time is 78.652628 seconds.
+Accuracy = 95.929% (649822/677399)
+Elapsed time is 19.468134 seconds.
+Elapsed time is 45.545374 seconds.
+Elapsed time is 44.456302 seconds.
+Elapsed time is 56.435653 seconds.
+Elapsed time is 49.119550 seconds.
+Elapsed time is 39.634041 seconds.
+Elapsed time is 48.298086 seconds.
+Elapsed time is 39.956641 seconds.
+Elapsed time is 49.444252 seconds.
+>> com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:184)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:713)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:586)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueAction(DebuggerManager.java:292)
+	at com.mathworks.matlabserver.worker.service.breakpoint.impl13b.DebuggerInstaller.<init>(DebuggerInstaller.java:43)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceImpl.initializeSingletonEditorFeatures(EditorDataServiceImpl.java:75)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceImpl.<init>(EditorDataServiceImpl.java:60)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceImpl.<init>(EditorDataServiceImpl.java:44)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceInitialize.initialized(EditorDataServiceInitialize.java:12)
+	at com.mathworks.matlabserver.internalconnector.servlet.ContextListenerImpl.contextInitialized(ContextListenerImpl.java:66)
+	at org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized(ContextHandler.java:775)
+	at org.eclipse.jetty.servlet.ServletContextHandler.callContextInitialized(ServletContextHandler.java:424)
+	at org.eclipse.jetty.server.handler.ContextHandler.startContext(ContextHandler.java:767)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:249)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:710)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.doStart(HandlerWrapper.java:95)
+	at org.eclipse.jetty.server.handler.ScopedHandler.doStart(ScopedHandler.java:115)
+	at org.eclipse.jetty.server.handler.ContextHandler.startContext(ContextHandler.java:756)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:710)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.handler.HandlerCollection.doStart(HandlerCollection.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.doStart(ContextHandlerCollection.java:172)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.doStart(HandlerWrapper.java:95)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:280)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.JettyWebServer.g(Unknown Source)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.JettyWebServer.a(Unknown Source)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.d.a(Unknown Source)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.d.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

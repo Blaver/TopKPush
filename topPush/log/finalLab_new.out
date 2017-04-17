@@ -1,0 +1,1589 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> Current Time: 2017     2    18    13     1    45
+round: 1, tol: 0.010000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.172329 seconds.
+Accuracy = 76.3889% (55/72)
+Elapsed time is 0.171406 seconds.
+Accuracy = 77.7778% (56/72)
+Elapsed time is 0.349696 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.043148 seconds.
+Elapsed time is 2.308206 seconds.
+Elapsed time is 2.063816 seconds.
+Elapsed time is 2.029320 seconds.
+Elapsed time is 2.010521 seconds.
+Elapsed time is 2.516258 seconds.
+Elapsed time is 2.410089 seconds.
+Elapsed time is 2.407858 seconds.
+Elapsed time is 2.845328 seconds.
+Current Time: 2017     2    18    13     2     5
+round: 1, tol: 0.050000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.101091 seconds.
+Accuracy = 75% (54/72)
+Elapsed time is 0.107462 seconds.
+Accuracy = 77.7778% (56/72)
+Elapsed time is 0.267329 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.028952 seconds.
+Elapsed time is 1.993763 seconds.
+Elapsed time is 1.960223 seconds.
+Elapsed time is 1.971471 seconds.
+Elapsed time is 1.899047 seconds.
+Elapsed time is 2.421986 seconds.
+Elapsed time is 2.458526 seconds.
+Elapsed time is 2.334608 seconds.
+Elapsed time is 2.416916 seconds.
+Current Time: 2017     2    18    13     2    23
+round: 1, tol: 0.100000 .
+Accuracy = 88.8889% (64/72)
+Elapsed time is 0.095126 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.097213 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.256763 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.028793 seconds.
+Elapsed time is 1.922878 seconds.
+Elapsed time is 1.791295 seconds.
+Elapsed time is 1.958398 seconds.
+Elapsed time is 1.967242 seconds.
+Elapsed time is 2.582983 seconds.
+Elapsed time is 2.522599 seconds.
+Elapsed time is 2.214512 seconds.
+Elapsed time is 2.204616 seconds.
+Current Time: 2017     2    18    13     2    41
+round: 2, tol: 0.010000 .
+Accuracy = 88.8889% (64/72)
+Elapsed time is 0.102585 seconds.
+Accuracy = 72.2222% (52/72)
+Elapsed time is 0.111721 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.274594 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.029588 seconds.
+Elapsed time is 2.037942 seconds.
+Elapsed time is 1.864980 seconds.
+Elapsed time is 2.023711 seconds.
+Elapsed time is 2.142524 seconds.
+Elapsed time is 3.086181 seconds.
+Elapsed time is 2.726420 seconds.
+Elapsed time is 2.386622 seconds.
+Elapsed time is 2.448234 seconds.
+Current Time: 2017     2    18    13     3     0
+round: 2, tol: 0.050000 .
+Accuracy = 88.8889% (64/72)
+Elapsed time is 0.094421 seconds.
+Accuracy = 76.3889% (55/72)
+Elapsed time is 0.103921 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.265498 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.030181 seconds.
+Elapsed time is 1.956796 seconds.
+Elapsed time is 1.955148 seconds.
+Elapsed time is 2.309446 seconds.
+Elapsed time is 2.416536 seconds.
+Elapsed time is 3.165042 seconds.
+Elapsed time is 3.067753 seconds.
+Elapsed time is 2.924929 seconds.
+Elapsed time is 2.777363 seconds.
+Current Time: 2017     2    18    13     3    21
+round: 2, tol: 0.100000 .
+Accuracy = 88.8889% (64/72)
+Elapsed time is 0.114024 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.122407 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.323346 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.036959 seconds.
+Elapsed time is 2.545117 seconds.
+Elapsed time is 2.145265 seconds.
+Elapsed time is 2.134400 seconds.
+Elapsed time is 2.217689 seconds.
+Elapsed time is 2.518263 seconds.
+Elapsed time is 3.032221 seconds.
+Elapsed time is 2.598693 seconds.
+Elapsed time is 2.535793 seconds.
+Current Time: 2017     2    18    13     3    41
+round: 3, tol: 0.010000 .
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.093973 seconds.
+Accuracy = 69.4444% (50/72)
+Elapsed time is 0.101054 seconds.
+Accuracy = 58.3333% (42/72)
+Elapsed time is 0.275709 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.033541 seconds.
+Elapsed time is 2.144389 seconds.
+Elapsed time is 2.221199 seconds.
+Elapsed time is 1.998001 seconds.
+Elapsed time is 2.129140 seconds.
+Elapsed time is 2.581314 seconds.
+Elapsed time is 2.482521 seconds.
+Elapsed time is 2.458674 seconds.
+Elapsed time is 2.619288 seconds.
+Current Time: 2017     2    18    13     4     0
+round: 3, tol: 0.050000 .
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.093466 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.109183 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.294782 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.033976 seconds.
+Elapsed time is 2.076771 seconds.
+Elapsed time is 2.017548 seconds.
+Elapsed time is 1.960317 seconds.
+Elapsed time is 2.276567 seconds.
+Elapsed time is 2.566138 seconds.
+Elapsed time is 2.577091 seconds.
+Elapsed time is 2.309655 seconds.
+Elapsed time is 2.602322 seconds.
+Current Time: 2017     2    18    13     4    19
+round: 3, tol: 0.100000 .
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.097863 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.104836 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.295947 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.033408 seconds.
+Elapsed time is 2.503714 seconds.
+Elapsed time is 2.598192 seconds.
+Elapsed time is 2.217364 seconds.
+Elapsed time is 2.021325 seconds.
+Elapsed time is 2.690527 seconds.
+Elapsed time is 2.665326 seconds.
+Elapsed time is 2.388299 seconds.
+Elapsed time is 2.352423 seconds.
+Current Time: 2017     2    18    13     4    39
+round: 4, tol: 0.010000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.086234 seconds.
+Accuracy = 79.1667% (57/72)
+Elapsed time is 0.099074 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.277476 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.035678 seconds.
+Elapsed time is 1.960516 seconds.
+Elapsed time is 1.876707 seconds.
+Elapsed time is 1.866566 seconds.
+Elapsed time is 1.933330 seconds.
+Elapsed time is 2.427837 seconds.
+Elapsed time is 2.507562 seconds.
+Elapsed time is 3.303593 seconds.
+Elapsed time is 2.412581 seconds.
+Current Time: 2017     2    18    13     4    58
+round: 4, tol: 0.050000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.077494 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.086009 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.250427 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.030851 seconds.
+Elapsed time is 2.240720 seconds.
+Elapsed time is 1.967715 seconds.
+Elapsed time is 2.187525 seconds.
+Elapsed time is 2.001571 seconds.
+Elapsed time is 2.265635 seconds.
+Elapsed time is 2.096572 seconds.
+Elapsed time is 2.458859 seconds.
+Elapsed time is 2.557923 seconds.
+Current Time: 2017     2    18    13     5    16
+round: 4, tol: 0.100000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.083731 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.087263 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.253934 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.032062 seconds.
+Elapsed time is 1.760936 seconds.
+Elapsed time is 1.935567 seconds.
+Elapsed time is 2.058748 seconds.
+Elapsed time is 1.817421 seconds.
+Elapsed time is 2.345712 seconds.
+Elapsed time is 2.730050 seconds.
+Elapsed time is 2.119691 seconds.
+Elapsed time is 2.576020 seconds.
+Current Time: 2017     2    18    13     5    34
+round: 5, tol: 0.010000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.077831 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.086589 seconds.
+Accuracy = 76.3889% (55/72)
+Elapsed time is 0.245737 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.030983 seconds.
+Elapsed time is 1.651854 seconds.
+Elapsed time is 1.521566 seconds.
+Elapsed time is 1.585490 seconds.
+Elapsed time is 1.713935 seconds.
+Elapsed time is 2.297196 seconds.
+Elapsed time is 2.872589 seconds.
+Elapsed time is 2.855144 seconds.
+Elapsed time is 2.323253 seconds.
+Current Time: 2017     2    18    13     5    51
+round: 5, tol: 0.050000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.075672 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.107409 seconds.
+Accuracy = 76.3889% (55/72)
+Elapsed time is 0.330648 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.042064 seconds.
+Elapsed time is 1.683490 seconds.
+Elapsed time is 1.619412 seconds.
+Elapsed time is 1.687707 seconds.
+Elapsed time is 1.804265 seconds.
+Elapsed time is 2.376346 seconds.
+Elapsed time is 2.326472 seconds.
+Elapsed time is 2.096847 seconds.
+Elapsed time is 2.206337 seconds.
+Current Time: 2017     2    18    13     6     8
+round: 5, tol: 0.100000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.109480 seconds.
+Accuracy = 79.1667% (57/72)
+Elapsed time is 0.087508 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.249953 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.033597 seconds.
+Elapsed time is 1.753062 seconds.
+Elapsed time is 1.597278 seconds.
+Elapsed time is 1.631574 seconds.
+Elapsed time is 1.746961 seconds.
+Elapsed time is 2.340795 seconds.
+Elapsed time is 2.599819 seconds.
+Elapsed time is 1.915485 seconds.
+Elapsed time is 1.913367 seconds.
+Current Time: 2017     2    18    13     6    24
+round: 6, tol: 0.010000 .
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.094448 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.098637 seconds.
+Accuracy = 76.3889% (55/72)
+Elapsed time is 0.267455 seconds.
+Accuracy = 90.2778% (65/72)
+Elapsed time is 0.032580 seconds.
+Elapsed time is 2.031127 seconds.
+Elapsed time is 1.974764 seconds.
+Elapsed time is 2.152084 seconds.
+Elapsed time is 2.278474 seconds.
+Elapsed time is 2.543777 seconds.
+Elapsed time is 2.445088 seconds.
+Elapsed time is 2.818647 seconds.
+Elapsed time is 2.724000 seconds.
+Current Time: 2017     2    18    13     6    43
+round: 6, tol: 0.050000 .
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.094897 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.105855 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.318871 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.040220 seconds.
+Elapsed time is 1.937809 seconds.
+Elapsed time is 2.000920 seconds.
+Elapsed time is 2.506934 seconds.
+Elapsed time is 2.351026 seconds.
+Elapsed time is 2.922334 seconds.
+Elapsed time is 2.547202 seconds.
+Elapsed time is 2.584239 seconds.
+Elapsed time is 2.555330 seconds.
+Current Time: 2017     2    18    13     7     3
+round: 6, tol: 0.100000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.091818 seconds.
+Accuracy = 93.0556% (67/72)
+Elapsed time is 0.092860 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.264238 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.032778 seconds.
+Elapsed time is 1.981774 seconds.
+Elapsed time is 1.968140 seconds.
+Elapsed time is 2.134915 seconds.
+Elapsed time is 1.912021 seconds.
+Elapsed time is 2.622446 seconds.
+Elapsed time is 2.621962 seconds.
+Elapsed time is 2.453242 seconds.
+Elapsed time is 2.270175 seconds.
+Current Time: 2017     2    18    13     7    22
+round: 7, tol: 0.010000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.100945 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.107159 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.343141 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.043056 seconds.
+Elapsed time is 3.064985 seconds.
+Elapsed time is 2.906609 seconds.
+Elapsed time is 2.879033 seconds.
+Elapsed time is 2.762565 seconds.
+Elapsed time is 2.954384 seconds.
+Elapsed time is 2.564481 seconds.
+Elapsed time is 3.405167 seconds.
+Elapsed time is 2.356345 seconds.
+Current Time: 2017     2    18    13     7    45
+round: 7, tol: 0.050000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.088258 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.102745 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.264961 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.029415 seconds.
+Elapsed time is 2.516870 seconds.
+Elapsed time is 3.019403 seconds.
+Elapsed time is 2.648479 seconds.
+Elapsed time is 2.117959 seconds.
+Elapsed time is 2.522973 seconds.
+Elapsed time is 2.557640 seconds.
+Elapsed time is 2.382447 seconds.
+Elapsed time is 2.514583 seconds.
+Current Time: 2017     2    18    13     8     6
+round: 7, tol: 0.100000 .
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.098289 seconds.
+Accuracy = 90.2778% (65/72)
+Elapsed time is 0.119676 seconds.
+Accuracy = 87.5% (63/72)
+Elapsed time is 0.336144 seconds.
+Accuracy = 91.6667% (66/72)
+Elapsed time is 0.030447 seconds.
+Elapsed time is 2.008198 seconds.
+Elapsed time is 2.577940 seconds.
+Elapsed time is 1.971719 seconds.
+Elapsed time is 2.070391 seconds.
+Elapsed time is 2.381791 seconds.
+Elapsed time is 2.382112 seconds.
+Elapsed time is 2.381612 seconds.
+Elapsed time is 2.330708 seconds.
+Current Time: 2017     2    18    13     8    25
+round: 8, tol: 0.010000 .
+Accuracy = 80.5556% (58/72)
+Elapsed time is 0.081735 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.085054 seconds.
+Accuracy = 54.1667% (39/72)
+Elapsed time is 0.255561 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.032629 seconds.
+Elapsed time is 1.931891 seconds.
+Elapsed time is 1.861800 seconds.
+Elapsed time is 1.846798 seconds.
+Elapsed time is 1.968853 seconds.
+Elapsed time is 2.376073 seconds.
+Elapsed time is 2.419966 seconds.
+Elapsed time is 2.327295 seconds.
+Elapsed time is 2.327735 seconds.
+Current Time: 2017     2    18    13     8    42
+round: 8, tol: 0.050000 .
+Accuracy = 80.5556% (58/72)
+Elapsed time is 0.082187 seconds.
+Accuracy = 73.6111% (53/72)
+Elapsed time is 0.087613 seconds.
+Accuracy = 69.4444% (50/72)
+Elapsed time is 0.253166 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.033088 seconds.
+Elapsed time is 1.842340 seconds.
+Elapsed time is 1.925432 seconds.
+Elapsed time is 1.934116 seconds.
+Elapsed time is 1.974723 seconds.
+Elapsed time is 2.375519 seconds.
+Elapsed time is 2.423465 seconds.
+Elapsed time is 2.439860 seconds.
+Elapsed time is 2.695535 seconds.
+Current Time: 2017     2    18    13     9     0
+round: 8, tol: 0.100000 .
+Accuracy = 80.5556% (58/72)
+Elapsed time is 0.089968 seconds.
+Accuracy = 80.5556% (58/72)
+Elapsed time is 0.094978 seconds.
+Accuracy = 77.7778% (56/72)
+Elapsed time is 0.264552 seconds.
+Accuracy = 88.8889% (64/72)
+Elapsed time is 0.031986 seconds.
+Elapsed time is 1.916120 seconds.
+Elapsed time is 1.838370 seconds.
+Elapsed time is 1.845871 seconds.
+Elapsed time is 1.859119 seconds.
+Elapsed time is 2.558122 seconds.
+Elapsed time is 2.470650 seconds.
+Elapsed time is 1.943782 seconds.
+Elapsed time is 2.054868 seconds.
+Current Time: 2017     2    18    13     9    17
+round: 9, tol: 0.010000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.096456 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.101436 seconds.
+Accuracy = 55.5556% (40/72)
+Elapsed time is 0.291074 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.032481 seconds.
+Elapsed time is 2.050913 seconds.
+Elapsed time is 2.201042 seconds.
+Elapsed time is 1.985800 seconds.
+Elapsed time is 2.081209 seconds.
+Elapsed time is 2.390625 seconds.
+Elapsed time is 2.615435 seconds.
+Elapsed time is 2.550083 seconds.
+Elapsed time is 2.723914 seconds.
+Current Time: 2017     2    18    13     9    36
+round: 9, tol: 0.050000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.096111 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.102212 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.284201 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.031788 seconds.
+Elapsed time is 2.060902 seconds.
+Elapsed time is 2.086498 seconds.
+Elapsed time is 2.110951 seconds.
+Elapsed time is 2.046243 seconds.
+Elapsed time is 2.766603 seconds.
+Elapsed time is 2.841092 seconds.
+Elapsed time is 2.977258 seconds.
+Elapsed time is 2.521581 seconds.
+Current Time: 2017     2    18    13     9    56
+round: 9, tol: 0.100000 .
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.088284 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.095581 seconds.
+Accuracy = 81.9444% (59/72)
+Elapsed time is 0.260561 seconds.
+Accuracy = 84.7222% (61/72)
+Elapsed time is 0.030030 seconds.
+Elapsed time is 1.880702 seconds.
+Elapsed time is 1.997542 seconds.
+Elapsed time is 2.238253 seconds.
+Elapsed time is 2.508192 seconds.
+Elapsed time is 2.971337 seconds.
+Elapsed time is 3.011831 seconds.
+Elapsed time is 2.261847 seconds.
+Elapsed time is 2.216393 seconds.
+Current Time: 2017     2    18    13    10    16
+round: 10, tol: 0.010000 .
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.107406 seconds.
+Accuracy = 73.6111% (53/72)
+Elapsed time is 0.116695 seconds.
+Accuracy = 59.7222% (43/72)
+Elapsed time is 0.311492 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.037180 seconds.
+Elapsed time is 2.499314 seconds.
+Elapsed time is 2.087876 seconds.
+Elapsed time is 2.082754 seconds.
+Elapsed time is 2.120794 seconds.
+Elapsed time is 2.543866 seconds.
+Elapsed time is 2.612026 seconds.
+Elapsed time is 2.581513 seconds.
+Elapsed time is 2.698049 seconds.
+Current Time: 2017     2    18    13    10    36
+round: 10, tol: 0.050000 .
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.094706 seconds.
+Accuracy = 77.7778% (56/72)
+Elapsed time is 0.104281 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.276151 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.032040 seconds.
+Elapsed time is 1.992645 seconds.
+Elapsed time is 2.094711 seconds.
+Elapsed time is 2.136347 seconds.
+Elapsed time is 2.251959 seconds.
+Elapsed time is 2.788357 seconds.
+Elapsed time is 2.599453 seconds.
+Elapsed time is 3.121274 seconds.
+Elapsed time is 3.406217 seconds.
+Current Time: 2017     2    18    13    10    56
+round: 10, tol: 0.100000 .
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.116589 seconds.
+Accuracy = 86.1111% (62/72)
+Elapsed time is 0.117605 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.309489 seconds.
+Accuracy = 83.3333% (60/72)
+Elapsed time is 0.042433 seconds.
+Elapsed time is 2.439647 seconds.
+Elapsed time is 2.615668 seconds.
+Elapsed time is 2.319262 seconds.
+Elapsed time is 2.238621 seconds.
+Elapsed time is 2.492009 seconds.
+Elapsed time is 2.645646 seconds.
+Elapsed time is 2.743176 seconds.
+Elapsed time is 2.345375 seconds.
+Current Time: 2017     2    18    13    11    17
+round: 1, tol: 0.001000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.115465 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.125091 seconds.
+Accuracy = 86.7841% (197/227)
+Elapsed time is 0.322906 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.044048 seconds.
+Elapsed time is 4.338716 seconds.
+Elapsed time is 4.478570 seconds.
+Elapsed time is 4.974164 seconds.
+Elapsed time is 4.183059 seconds.
+Elapsed time is 5.788264 seconds.
+Elapsed time is 5.233121 seconds.
+Elapsed time is 5.525657 seconds.
+Elapsed time is 5.527059 seconds.
+Current Time: 2017     2    18    13    11    58
+round: 1, tol: 0.005000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.115560 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.121261 seconds.
+Accuracy = 94.2731% (214/227)
+Elapsed time is 0.327288 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.044468 seconds.
+Elapsed time is 4.026746 seconds.
+Elapsed time is 3.934366 seconds.
+Elapsed time is 4.145015 seconds.
+Elapsed time is 4.173286 seconds.
+Elapsed time is 5.916273 seconds.
+Elapsed time is 5.519895 seconds.
+Elapsed time is 5.138451 seconds.
+Elapsed time is 5.086649 seconds.
+Current Time: 2017     2    18    13    12    36
+round: 1, tol: 0.010000 .
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.114242 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.111127 seconds.
+Accuracy = 94.2731% (214/227)
+Elapsed time is 0.300228 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.040283 seconds.
+Elapsed time is 4.176116 seconds.
+Elapsed time is 4.384323 seconds.
+Elapsed time is 4.408888 seconds.
+Elapsed time is 4.297724 seconds.
+Elapsed time is 5.336761 seconds.
+Elapsed time is 5.260631 seconds.
+Elapsed time is 5.146842 seconds.
+Elapsed time is 5.493497 seconds.
+Current Time: 2017     2    18    13    13    15
+round: 1, tol: 0.050000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.112171 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.117326 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.308314 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.040670 seconds.
+Elapsed time is 4.332448 seconds.
+Elapsed time is 4.767961 seconds.
+Elapsed time is 4.904516 seconds.
+Elapsed time is 4.555402 seconds.
+Elapsed time is 4.369906 seconds.
+Elapsed time is 4.046690 seconds.
+Elapsed time is 3.298783 seconds.
+Elapsed time is 3.326420 seconds.
+Current Time: 2017     2    18    13    13    49
+round: 1, tol: 0.100000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.120518 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.122995 seconds.
+Accuracy = 92.511% (210/227)
+Elapsed time is 0.324111 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.044668 seconds.
+Elapsed time is 4.457630 seconds.
+Elapsed time is 4.530293 seconds.
+Elapsed time is 4.467690 seconds.
+Elapsed time is 4.561431 seconds.
+Elapsed time is 3.223067 seconds.
+Elapsed time is 4.019629 seconds.
+Elapsed time is 3.068308 seconds.
+Elapsed time is 2.914271 seconds.
+Current Time: 2017     2    18    13    14    21
+round: 2, tol: 0.001000 .
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.110939 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.124662 seconds.
+Accuracy = 86.3436% (196/227)
+Elapsed time is 0.324563 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.043718 seconds.
+Elapsed time is 4.837059 seconds.
+Elapsed time is 4.591092 seconds.
+Elapsed time is 4.639109 seconds.
+Elapsed time is 4.989650 seconds.
+Elapsed time is 5.945018 seconds.
+Elapsed time is 6.559850 seconds.
+Elapsed time is 5.530882 seconds.
+Elapsed time is 5.722851 seconds.
+Current Time: 2017     2    18    13    15     5
+round: 2, tol: 0.005000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.125032 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.124867 seconds.
+Accuracy = 40.5286% (92/227)
+Elapsed time is 0.332819 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.044322 seconds.
+Elapsed time is 4.694770 seconds.
+Elapsed time is 4.552922 seconds.
+Elapsed time is 4.944810 seconds.
+Elapsed time is 4.769923 seconds.
+Elapsed time is 6.327282 seconds.
+Elapsed time is 5.529494 seconds.
+Elapsed time is 5.262057 seconds.
+Elapsed time is 5.163816 seconds.
+Current Time: 2017     2    18    13    15    47
+round: 2, tol: 0.010000 .
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.105895 seconds.
+Accuracy = 99.5595% (226/227)
+Elapsed time is 0.112979 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.305634 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.040262 seconds.
+Elapsed time is 4.173720 seconds.
+Elapsed time is 4.337871 seconds.
+Elapsed time is 4.589732 seconds.
+Elapsed time is 4.711093 seconds.
+Elapsed time is 5.704705 seconds.
+Elapsed time is 6.152345 seconds.
+Elapsed time is 5.762250 seconds.
+Elapsed time is 4.892733 seconds.
+Current Time: 2017     2    18    13    16    28
+round: 2, tol: 0.050000 .
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.103037 seconds.
+Accuracy = 99.5595% (226/227)
+Elapsed time is 0.109730 seconds.
+Accuracy = 99.1189% (225/227)
+Elapsed time is 0.299731 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.039146 seconds.
+Elapsed time is 3.947075 seconds.
+Elapsed time is 4.075828 seconds.
+Elapsed time is 4.163343 seconds.
+Elapsed time is 3.909870 seconds.
+Elapsed time is 3.999967 seconds.
+Elapsed time is 4.113946 seconds.
+Elapsed time is 3.378027 seconds.
+Elapsed time is 3.475260 seconds.
+Current Time: 2017     2    18    13    16    59
+round: 2, tol: 0.100000 .
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.113161 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.113968 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.296486 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.040575 seconds.
+Elapsed time is 4.308190 seconds.
+Elapsed time is 4.407219 seconds.
+Elapsed time is 4.325242 seconds.
+Elapsed time is 4.504818 seconds.
+Elapsed time is 3.300588 seconds.
+Elapsed time is 3.225621 seconds.
+Elapsed time is 2.543537 seconds.
+Elapsed time is 2.595794 seconds.
+Current Time: 2017     2    18    13    17    29
+round: 3, tol: 0.001000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.090667 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.097729 seconds.
+Accuracy = 91.63% (208/227)
+Elapsed time is 0.270091 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.040287 seconds.
+Elapsed time is 3.626939 seconds.
+Elapsed time is 3.578669 seconds.
+Elapsed time is 3.849187 seconds.
+Elapsed time is 3.843635 seconds.
+Elapsed time is 5.117000 seconds.
+Elapsed time is 5.087370 seconds.
+Elapsed time is 5.658465 seconds.
+Elapsed time is 5.214783 seconds.
+Current Time: 2017     2    18    13    18     5
+round: 3, tol: 0.005000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.103389 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.107101 seconds.
+Accuracy = 91.63% (208/227)
+Elapsed time is 0.292738 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.046179 seconds.
+Elapsed time is 4.285739 seconds.
+Elapsed time is 4.054703 seconds.
+Elapsed time is 4.559915 seconds.
+Elapsed time is 4.496643 seconds.
+Elapsed time is 4.875457 seconds.
+Elapsed time is 5.605390 seconds.
+Elapsed time is 6.311556 seconds.
+Elapsed time is 5.069695 seconds.
+Current Time: 2017     2    18    13    18    45
+round: 3, tol: 0.010000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.106647 seconds.
+Accuracy = 94.7137% (215/227)
+Elapsed time is 0.112925 seconds.
+Accuracy = 91.63% (208/227)
+Elapsed time is 0.379152 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.048798 seconds.
+Elapsed time is 4.034713 seconds.
+Elapsed time is 3.830189 seconds.
+Elapsed time is 4.018258 seconds.
+Elapsed time is 4.466610 seconds.
+Elapsed time is 4.683782 seconds.
+Elapsed time is 5.167852 seconds.
+Elapsed time is 4.837155 seconds.
+Elapsed time is 5.233698 seconds.
+Current Time: 2017     2    18    13    19    22
+round: 3, tol: 0.050000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.112534 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.117574 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.348716 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.048040 seconds.
+Elapsed time is 4.976902 seconds.
+Elapsed time is 4.727133 seconds.
+Elapsed time is 3.819874 seconds.
+Elapsed time is 4.224122 seconds.
+Elapsed time is 4.208535 seconds.
+Elapsed time is 4.310889 seconds.
+Elapsed time is 3.269270 seconds.
+Elapsed time is 3.947971 seconds.
+Current Time: 2017     2    18    13    19    56
+round: 3, tol: 0.100000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.109929 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.120950 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.335292 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.050751 seconds.
+Elapsed time is 4.509291 seconds.
+Elapsed time is 4.572899 seconds.
+Elapsed time is 4.885569 seconds.
+Elapsed time is 4.609907 seconds.
+Elapsed time is 3.209306 seconds.
+Elapsed time is 3.038618 seconds.
+Elapsed time is 2.517034 seconds.
+Elapsed time is 2.509913 seconds.
+Current Time: 2017     2    18    13    20    27
+round: 4, tol: 0.001000 .
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.109893 seconds.
+Accuracy = 95.1542% (216/227)
+Elapsed time is 0.111133 seconds.
+Accuracy = 82.8194% (188/227)
+Elapsed time is 0.312068 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.044081 seconds.
+Elapsed time is 4.244418 seconds.
+Elapsed time is 3.897584 seconds.
+Elapsed time is 4.113782 seconds.
+Elapsed time is 3.833142 seconds.
+Elapsed time is 4.741541 seconds.
+Elapsed time is 5.321645 seconds.
+Elapsed time is 4.919259 seconds.
+Elapsed time is 4.518242 seconds.
+Current Time: 2017     2    18    13    21     3
+round: 4, tol: 0.005000 .
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.109979 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.118272 seconds.
+Accuracy = 88.9868% (202/227)
+Elapsed time is 0.302085 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.044130 seconds.
+Elapsed time is 3.978860 seconds.
+Elapsed time is 4.202593 seconds.
+Elapsed time is 4.513941 seconds.
+Elapsed time is 4.233910 seconds.
+Elapsed time is 4.791732 seconds.
+Elapsed time is 4.905728 seconds.
+Elapsed time is 4.997849 seconds.
+Elapsed time is 4.978413 seconds.
+Current Time: 2017     2    18    13    21    40
+round: 4, tol: 0.010000 .
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.111796 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.115258 seconds.
+Accuracy = 88.9868% (202/227)
+Elapsed time is 0.315766 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.044365 seconds.
+Elapsed time is 4.181979 seconds.
+Elapsed time is 4.210444 seconds.
+Elapsed time is 4.557900 seconds.
+Elapsed time is 4.458808 seconds.
+Elapsed time is 4.837338 seconds.
+Elapsed time is 4.887911 seconds.
+Elapsed time is 4.972155 seconds.
+Elapsed time is 5.287424 seconds.
+Current Time: 2017     2    18    13    22    18
+round: 4, tol: 0.050000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.103573 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.112279 seconds.
+Accuracy = 92.0705% (209/227)
+Elapsed time is 0.307997 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.043624 seconds.
+Elapsed time is 3.950696 seconds.
+Elapsed time is 4.827011 seconds.
+Elapsed time is 4.437659 seconds.
+Elapsed time is 4.126188 seconds.
+Elapsed time is 4.518854 seconds.
+Elapsed time is 4.368550 seconds.
+Elapsed time is 3.244918 seconds.
+Elapsed time is 3.194023 seconds.
+Current Time: 2017     2    18    13    22    51
+round: 4, tol: 0.100000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.105335 seconds.
+Accuracy = 93.8326% (213/227)
+Elapsed time is 0.116744 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.317415 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.044158 seconds.
+Elapsed time is 4.292772 seconds.
+Elapsed time is 3.828432 seconds.
+Elapsed time is 3.985797 seconds.
+Elapsed time is 4.367572 seconds.
+Elapsed time is 3.365625 seconds.
+Elapsed time is 3.597856 seconds.
+Elapsed time is 2.455129 seconds.
+Elapsed time is 2.557648 seconds.
+Current Time: 2017     2    18    13    23    20
+round: 5, tol: 0.001000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.109027 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.123211 seconds.
+Accuracy = 90.7489% (206/227)
+Elapsed time is 0.334447 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.043495 seconds.
+Elapsed time is 3.837968 seconds.
+Elapsed time is 3.258786 seconds.
+Elapsed time is 4.157209 seconds.
+Elapsed time is 3.974854 seconds.
+Elapsed time is 4.879365 seconds.
+Elapsed time is 4.518789 seconds.
+Elapsed time is 4.602212 seconds.
+Elapsed time is 4.890965 seconds.
+Current Time: 2017     2    18    13    23    55
+round: 5, tol: 0.005000 .
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.124723 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.134674 seconds.
+Accuracy = 90.7489% (206/227)
+Elapsed time is 0.350237 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.045457 seconds.
+Elapsed time is 3.974032 seconds.
+Elapsed time is 3.937475 seconds.
+Elapsed time is 4.535733 seconds.
+Elapsed time is 3.921344 seconds.
+Elapsed time is 4.458092 seconds.
+Elapsed time is 4.983936 seconds.
+Elapsed time is 4.833729 seconds.
+Elapsed time is 4.826790 seconds.
+Current Time: 2017     2    18    13    24    31
+round: 5, tol: 0.010000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.105861 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.119645 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.305723 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.043665 seconds.
+Elapsed time is 3.417326 seconds.
+Elapsed time is 3.995623 seconds.
+Elapsed time is 4.009507 seconds.
+Elapsed time is 3.934708 seconds.
+Elapsed time is 4.772737 seconds.
+Elapsed time is 4.682503 seconds.
+Elapsed time is 4.448187 seconds.
+Elapsed time is 4.573365 seconds.
+Current Time: 2017     2    18    13    25     6
+round: 5, tol: 0.050000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.107097 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.109831 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.301436 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.044462 seconds.
+Elapsed time is 3.733876 seconds.
+Elapsed time is 3.702213 seconds.
+Elapsed time is 4.005597 seconds.
+Elapsed time is 3.836487 seconds.
+Elapsed time is 3.837358 seconds.
+Elapsed time is 3.962849 seconds.
+Elapsed time is 3.098874 seconds.
+Elapsed time is 3.160768 seconds.
+Current Time: 2017     2    18    13    25    36
+round: 5, tol: 0.100000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.104526 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.114684 seconds.
+Accuracy = 90.7489% (206/227)
+Elapsed time is 0.303691 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.043969 seconds.
+Elapsed time is 3.789188 seconds.
+Elapsed time is 3.743059 seconds.
+Elapsed time is 4.001490 seconds.
+Elapsed time is 3.566339 seconds.
+Elapsed time is 3.243522 seconds.
+Elapsed time is 3.038545 seconds.
+Elapsed time is 2.313717 seconds.
+Elapsed time is 2.366891 seconds.
+Current Time: 2017     2    18    13    26     2
+round: 6, tol: 0.001000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.077031 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.082637 seconds.
+Accuracy = 85.022% (193/227)
+Elapsed time is 0.267590 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.042800 seconds.
+Elapsed time is 3.460696 seconds.
+Elapsed time is 3.323791 seconds.
+Elapsed time is 3.737841 seconds.
+Elapsed time is 3.262982 seconds.
+Elapsed time is 5.124279 seconds.
+Elapsed time is 4.846869 seconds.
+Elapsed time is 4.853142 seconds.
+Elapsed time is 5.397388 seconds.
+Current Time: 2017     2    18    13    26    37
+round: 6, tol: 0.005000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.079087 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.087721 seconds.
+Accuracy = 85.022% (193/227)
+Elapsed time is 0.277453 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.044344 seconds.
+Elapsed time is 3.626924 seconds.
+Elapsed time is 4.404718 seconds.
+Elapsed time is 4.157922 seconds.
+Elapsed time is 3.846993 seconds.
+Elapsed time is 4.829161 seconds.
+Elapsed time is 4.732050 seconds.
+Elapsed time is 4.983019 seconds.
+Elapsed time is 5.075960 seconds.
+Current Time: 2017     2    18    13    27    13
+round: 6, tol: 0.010000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.088963 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.089106 seconds.
+Accuracy = 85.022% (193/227)
+Elapsed time is 0.283396 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.046041 seconds.
+Elapsed time is 3.199026 seconds.
+Elapsed time is 3.519346 seconds.
+Elapsed time is 3.513807 seconds.
+Elapsed time is 3.748849 seconds.
+Elapsed time is 4.708738 seconds.
+Elapsed time is 4.860432 seconds.
+Elapsed time is 4.695515 seconds.
+Elapsed time is 4.413709 seconds.
+Current Time: 2017     2    18    13    27    46
+round: 6, tol: 0.050000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.077977 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.085790 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.269094 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.044320 seconds.
+Elapsed time is 3.142368 seconds.
+Elapsed time is 3.607590 seconds.
+Elapsed time is 3.576737 seconds.
+Elapsed time is 3.505645 seconds.
+Elapsed time is 3.940831 seconds.
+Elapsed time is 3.525924 seconds.
+Elapsed time is 2.932451 seconds.
+Elapsed time is 2.938681 seconds.
+Current Time: 2017     2    18    13    28    14
+round: 6, tol: 0.100000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.079296 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.085580 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.273316 seconds.
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.044463 seconds.
+Elapsed time is 3.391340 seconds.
+Elapsed time is 3.516537 seconds.
+Elapsed time is 3.488793 seconds.
+Elapsed time is 3.738379 seconds.
+Elapsed time is 2.796960 seconds.
+Elapsed time is 2.941189 seconds.
+Elapsed time is 2.388990 seconds.
+Elapsed time is 2.291321 seconds.
+Current Time: 2017     2    18    13    28    39
+round: 7, tol: 0.001000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.098045 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.101232 seconds.
+Accuracy = 78.8546% (179/227)
+Elapsed time is 0.296945 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.045056 seconds.
+Elapsed time is 4.418194 seconds.
+Elapsed time is 4.187214 seconds.
+Elapsed time is 4.246361 seconds.
+Elapsed time is 3.725605 seconds.
+Elapsed time is 4.969271 seconds.
+Elapsed time is 5.383349 seconds.
+Elapsed time is 5.344729 seconds.
+Elapsed time is 5.392696 seconds.
+Current Time: 2017     2    18    13    29    17
+round: 7, tol: 0.005000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.089223 seconds.
+Accuracy = 98.6784% (224/227)
+Elapsed time is 0.123389 seconds.
+Accuracy = 78.8546% (179/227)
+Elapsed time is 0.291928 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.045450 seconds.
+Elapsed time is 3.568303 seconds.
+Elapsed time is 4.212990 seconds.
+Elapsed time is 4.298575 seconds.
+Elapsed time is 4.433505 seconds.
+Elapsed time is 5.144027 seconds.
+Elapsed time is 5.152614 seconds.
+Elapsed time is 5.535440 seconds.
+Elapsed time is 5.736792 seconds.
+Current Time: 2017     2    18    13    29    56
+round: 7, tol: 0.010000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.096044 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.106220 seconds.
+Accuracy = 78.8546% (179/227)
+Elapsed time is 0.307957 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.048179 seconds.
+Elapsed time is 3.976503 seconds.
+Elapsed time is 3.735678 seconds.
+Elapsed time is 4.226949 seconds.
+Elapsed time is 4.149712 seconds.
+Elapsed time is 5.530638 seconds.
+Elapsed time is 5.413691 seconds.
+Elapsed time is 4.918751 seconds.
+Elapsed time is 5.240218 seconds.
+Current Time: 2017     2    18    13    30    33
+round: 7, tol: 0.050000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.095194 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.097534 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.294797 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.044678 seconds.
+Elapsed time is 3.693532 seconds.
+Elapsed time is 4.261435 seconds.
+Elapsed time is 4.375829 seconds.
+Elapsed time is 4.047558 seconds.
+Elapsed time is 4.313706 seconds.
+Elapsed time is 4.500805 seconds.
+Elapsed time is 3.248347 seconds.
+Elapsed time is 3.328015 seconds.
+Current Time: 2017     2    18    13    31     6
+round: 7, tol: 0.100000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.095360 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.101691 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.296408 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.044536 seconds.
+Elapsed time is 4.126387 seconds.
+Elapsed time is 4.151257 seconds.
+Elapsed time is 4.546408 seconds.
+Elapsed time is 3.829803 seconds.
+Elapsed time is 3.453022 seconds.
+Elapsed time is 3.278307 seconds.
+Elapsed time is 2.565577 seconds.
+Elapsed time is 2.571832 seconds.
+Current Time: 2017     2    18    13    31    35
+round: 8, tol: 0.001000 .
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.114406 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.111287 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.312986 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.043880 seconds.
+Elapsed time is 4.286049 seconds.
+Elapsed time is 4.202179 seconds.
+Elapsed time is 3.969977 seconds.
+Elapsed time is 4.052059 seconds.
+Elapsed time is 5.390623 seconds.
+Elapsed time is 5.129964 seconds.
+Elapsed time is 5.046263 seconds.
+Elapsed time is 4.862882 seconds.
+Current Time: 2017     2    18    13    32    12
+round: 8, tol: 0.005000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.106859 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.114331 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.310948 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.042952 seconds.
+Elapsed time is 4.044285 seconds.
+Elapsed time is 4.507535 seconds.
+Elapsed time is 4.031232 seconds.
+Elapsed time is 4.259832 seconds.
+Elapsed time is 5.364909 seconds.
+Elapsed time is 5.672784 seconds.
+Elapsed time is 5.093751 seconds.
+Elapsed time is 5.968868 seconds.
+Current Time: 2017     2    18    13    32    52
+round: 8, tol: 0.010000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.114254 seconds.
+Accuracy = 98.6784% (224/227)
+Elapsed time is 0.112603 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.298049 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.041209 seconds.
+Elapsed time is 4.376981 seconds.
+Elapsed time is 4.913929 seconds.
+Elapsed time is 4.874773 seconds.
+Elapsed time is 4.622298 seconds.
+Elapsed time is 5.273164 seconds.
+Elapsed time is 5.250092 seconds.
+Elapsed time is 5.209315 seconds.
+Elapsed time is 4.918757 seconds.
+Current Time: 2017     2    18    13    33    32
+round: 8, tol: 0.050000 .
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.110299 seconds.
+Accuracy = 98.6784% (224/227)
+Elapsed time is 0.113773 seconds.
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.315520 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.043963 seconds.
+Elapsed time is 4.293127 seconds.
+Elapsed time is 4.295625 seconds.
+Elapsed time is 3.997737 seconds.
+Elapsed time is 4.272756 seconds.
+Elapsed time is 4.233836 seconds.
+Elapsed time is 4.419535 seconds.
+Elapsed time is 3.456022 seconds.
+Elapsed time is 3.303093 seconds.
+Current Time: 2017     2    18    13    34     5
+round: 8, tol: 0.100000 .
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.116482 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.114142 seconds.
+Accuracy = 94.7137% (215/227)
+Elapsed time is 0.316903 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.044117 seconds.
+Elapsed time is 4.063437 seconds.
+Elapsed time is 3.998393 seconds.
+Elapsed time is 4.056030 seconds.
+Elapsed time is 4.417692 seconds.
+Elapsed time is 3.277395 seconds.
+Elapsed time is 3.250548 seconds.
+Elapsed time is 2.762702 seconds.
+Elapsed time is 2.715822 seconds.
+Current Time: 2017     2    18    13    34    34
+round: 9, tol: 0.001000 .
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.073176 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.079701 seconds.
+Accuracy = 33.4802% (76/227)
+Elapsed time is 0.257469 seconds.
+Accuracy = 93.8326% (213/227)
+Elapsed time is 0.045176 seconds.
+Elapsed time is 3.935694 seconds.
+Elapsed time is 3.753217 seconds.
+Elapsed time is 3.715631 seconds.
+Elapsed time is 3.737435 seconds.
+Elapsed time is 5.095946 seconds.
+Elapsed time is 5.709203 seconds.
+Elapsed time is 5.132898 seconds.
+Elapsed time is 5.636036 seconds.
+Current Time: 2017     2    18    13    35    11
+round: 9, tol: 0.005000 .
+Accuracy = 95.1542% (216/227)
+Elapsed time is 0.074454 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.080893 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.253486 seconds.
+Accuracy = 94.2731% (214/227)
+Elapsed time is 0.045756 seconds.
+Elapsed time is 3.806329 seconds.
+Elapsed time is 3.367462 seconds.
+Elapsed time is 3.594869 seconds.
+Elapsed time is 4.088550 seconds.
+Elapsed time is 5.461727 seconds.
+Elapsed time is 4.683114 seconds.
+Elapsed time is 5.331731 seconds.
+Elapsed time is 4.901193 seconds.
+Current Time: 2017     2    18    13    35    47
+round: 9, tol: 0.010000 .
+Accuracy = 96.0352% (218/227)
+Elapsed time is 0.078184 seconds.
+Accuracy = 95.1542% (216/227)
+Elapsed time is 0.080199 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.262125 seconds.
+Accuracy = 93.8326% (213/227)
+Elapsed time is 0.045353 seconds.
+Elapsed time is 3.704997 seconds.
+Elapsed time is 4.072940 seconds.
+Elapsed time is 3.747480 seconds.
+Elapsed time is 4.078514 seconds.
+Elapsed time is 5.560528 seconds.
+Elapsed time is 5.675443 seconds.
+Elapsed time is 4.502404 seconds.
+Elapsed time is 4.361907 seconds.
+Current Time: 2017     2    18    13    36    23
+round: 9, tol: 0.050000 .
+Accuracy = 95.1542% (216/227)
+Elapsed time is 0.072960 seconds.
+Accuracy = 95.1542% (216/227)
+Elapsed time is 0.080067 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.255369 seconds.
+Accuracy = 93.8326% (213/227)
+Elapsed time is 0.045365 seconds.
+Elapsed time is 3.932429 seconds.
+Elapsed time is 3.833597 seconds.
+Elapsed time is 3.434302 seconds.
+Elapsed time is 3.899741 seconds.
+Elapsed time is 3.710858 seconds.
+Elapsed time is 4.783053 seconds.
+Elapsed time is 4.494402 seconds.
+Elapsed time is 3.008423 seconds.
+Current Time: 2017     2    18    13    36    54
+round: 9, tol: 0.100000 .
+Accuracy = 94.7137% (215/227)
+Elapsed time is 0.071310 seconds.
+Accuracy = 92.9515% (211/227)
+Elapsed time is 0.094714 seconds.
+Accuracy = 95.1542% (216/227)
+Elapsed time is 0.294709 seconds.
+Accuracy = 93.8326% (213/227)
+Elapsed time is 0.047219 seconds.
+Elapsed time is 4.472871 seconds.
+Elapsed time is 4.347857 seconds.
+Elapsed time is 4.230529 seconds.
+Elapsed time is 5.462291 seconds.
+Elapsed time is 3.134471 seconds.
+Elapsed time is 3.046202 seconds.
+Elapsed time is 2.494049 seconds.
+Elapsed time is 2.516858 seconds.
+Current Time: 2017     2    18    13    37    25
+round: 10, tol: 0.001000 .
+Accuracy = 76.2115% (173/227)
+Elapsed time is 0.143340 seconds.
+Accuracy = 90.7489% (206/227)
+Elapsed time is 0.138261 seconds.
+Accuracy = 86.3436% (196/227)
+Elapsed time is 0.333023 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.046748 seconds.
+Elapsed time is 4.677918 seconds.
+Elapsed time is 4.440415 seconds.
+Elapsed time is 4.722782 seconds.
+Elapsed time is 4.530875 seconds.
+Elapsed time is 5.149445 seconds.
+Elapsed time is 5.577657 seconds.
+Elapsed time is 5.695366 seconds.
+Elapsed time is 5.613232 seconds.
+Current Time: 2017     2    18    13    38     6
+round: 10, tol: 0.005000 .
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.121403 seconds.
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.129643 seconds.
+Accuracy = 86.3436% (196/227)
+Elapsed time is 0.332135 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.044632 seconds.
+Elapsed time is 4.275024 seconds.
+Elapsed time is 4.131014 seconds.
+Elapsed time is 4.435819 seconds.
+Elapsed time is 4.665058 seconds.
+Elapsed time is 5.584077 seconds.
+Elapsed time is 5.522673 seconds.
+Elapsed time is 5.723782 seconds.
+Elapsed time is 5.860129 seconds.
+Current Time: 2017     2    18    13    38    47
+round: 10, tol: 0.010000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.139004 seconds.
+Accuracy = 94.2731% (214/227)
+Elapsed time is 0.126678 seconds.
+Accuracy = 86.3436% (196/227)
+Elapsed time is 0.357544 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.044692 seconds.
+Elapsed time is 4.544239 seconds.
+Elapsed time is 4.510425 seconds.
+Elapsed time is 5.519430 seconds.
+Elapsed time is 5.079025 seconds.
+Elapsed time is 5.422581 seconds.
+Elapsed time is 5.744586 seconds.
+Elapsed time is 5.077199 seconds.
+Elapsed time is 5.304592 seconds.
+Current Time: 2017     2    18    13    39    28
+round: 10, tol: 0.050000 .
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.127834 seconds.
+Accuracy = 97.3568% (221/227)
+Elapsed time is 0.127437 seconds.
+Accuracy = 95.5947% (217/227)
+Elapsed time is 0.328889 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.045499 seconds.
+Elapsed time is 4.374693 seconds.
+Elapsed time is 4.776543 seconds.
+Elapsed time is 4.545670 seconds.
+Elapsed time is 4.461467 seconds.
+Elapsed time is 4.814450 seconds.
+Elapsed time is 4.531761 seconds.
+Elapsed time is 3.484069 seconds.
+Elapsed time is 3.499541 seconds.
+Current Time: 2017     2    18    13    40     4
+round: 10, tol: 0.100000 .
+Accuracy = 97.7974% (222/227)
+Elapsed time is 0.215309 seconds.
+Accuracy = 98.2379% (223/227)
+Elapsed time is 0.210122 seconds.
+Accuracy = 96.9163% (220/227)
+Elapsed time is 0.341078 seconds.
+Accuracy = 96.4758% (219/227)
+Elapsed time is 0.044854 seconds.
+Elapsed time is 4.518849 seconds.
+Elapsed time is 3.910982 seconds.
+Elapsed time is 4.187251 seconds.
+Elapsed time is 4.590085 seconds.
+Elapsed time is 3.494582 seconds.
+Elapsed time is 3.410136 seconds.
+Elapsed time is 2.840331 seconds.
+Elapsed time is 2.534115 seconds.
+Current Time: 2017     2    18    13    40    34
+round: 1, tol: 0.050000 .
+Accuracy = 75% (15/20)
+Elapsed time is 0.232323 seconds.
+Accuracy = 75% (15/20)
+Elapsed time is 0.228844 seconds.
+Accuracy = 75% (15/20)
+Elapsed time is 0.938982 seconds.
+Accuracy = 75% (15/20)
+Elapsed time is 0.322377 seconds.
+Elapsed time is 0.777147 seconds.
+Elapsed time is 1.030920 seconds.
+Elapsed time is 0.828133 seconds.
+Elapsed time is 0.743687 seconds.
+Elapsed time is 0.853806 seconds.
+Elapsed time is 0.824886 seconds.
+Elapsed time is 0.715948 seconds.
+Elapsed time is 0.863284 seconds.
+Current Time: 2017     2    18    13    40    42
+round: 1, tol: 0.100000 .
+Accuracy = 75% (15/20)
+Elapsed time is 0.260590 seconds.
+Accuracy = 70% (14/20)
+Elapsed time is 0.248620 seconds.
+Accuracy = 75% (15/20)
+Elapsed time is 0.894249 seconds.
+Accuracy = 75% (15/20)
+Elapsed time is 0.309294 seconds.
+Elapsed time is 0.704479 seconds.
+Elapsed time is 0.695620 seconds.
+Elapsed time is 0.752233 seconds.
+Elapsed time is 4.599402 seconds.
+Elapsed time is 0.775390 seconds.
+Elapsed time is 0.780326 seconds.
+Elapsed time is 0.756878 seconds.
+Elapsed time is 0.764762 seconds.
+Current Time: 2017     2    18    13    40    54
+round: 2, tol: 0.050000 .
+Accuracy = 85% (17/20)
+Elapsed time is 0.238519 seconds.
+Accuracy = 75% (15/20)
+Elapsed time is 0.244864 seconds.
+Accuracy = 85% (17/20)
+Elapsed time is 0.914928 seconds.
+Accuracy = 85% (17/20)
+Elapsed time is 0.293161 seconds.
+Elapsed time is 0.744604 seconds.
+Elapsed time is 0.747480 seconds.
+Elapsed time is 0.743872 seconds.
+Elapsed time is 0.753613 seconds.
+Elapsed time is 0.717032 seconds.
+Elapsed time is 0.934342 seconds.
+Elapsed time is 0.939172 seconds.
+Elapsed time is 0.789722 seconds.
+Current Time: 2017     2    18    13    41     2
+round: 2, tol: 0.100000 .
+Accuracy = 85% (17/20)
+Elapsed time is 0.245873 seconds.
+Accuracy = 80% (16/20)
+Elapsed time is 0.236811 seconds.
+Accuracy = 80% (16/20)
+Elapsed time is 0.923422 seconds.
+Accuracy = 85% (17/20)
+Elapsed time is 0.287611 seconds.
+Elapsed time is 0.756852 seconds.
+Elapsed time is 0.919417 seconds.
+Elapsed time is 0.871551 seconds.
+Elapsed time is 0.882517 seconds.
+Elapsed time is 0.776922 seconds.
+Elapsed time is 1.234989 seconds.
+Elapsed time is 1.075731 seconds.
+Elapsed time is 0.925612 seconds.
+Current Time: 2017     2    18    13    41    11
+round: 3, tol: 0.050000 .
+Accuracy = 75% (15/20)
+Elapsed time is 0.271851 seconds.
+Error: C <= 0
+model file should be a struct array
+{Attempted to access rank_list(1); index out of bounds because
+numel(rank_list)=0.
+
+Error in BS_SVM_ThresholdSelect (line 69)
+        best_thd = rank_list(1) - 1e-3;
+
+} 
+>> com.mathworks.util.ShutdownRuntimeException: Java is shutting down
+	at com.mathworks.services.Prefs.nativeGetPreferencesDirectory(Native Method)
+	at com.mathworks.services.Prefs.getPropertyDirectory(Prefs.java:184)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferenceUtils.resolveToPrefDir(MatlabKeyBindingPreferenceUtils.java:112)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.getModifiedDefaultFile(MatlabKeyBindingPreferences.java:213)
+	at com.mathworks.services.binding.MatlabKeyBindingPreferences.resolveModifiedDefaultFilesFromPrefs(MatlabKeyBindingPreferences.java:116)
+	at com.mathworks.services.binding.MatlabKeyBindings.initializeFromPrefs(MatlabKeyBindings.java:713)
+	at com.mathworks.services.binding.MatlabKeyBindings.<clinit>(MatlabKeyBindings.java:586)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:194)
+	at com.mathworks.widgets.debug.DebuggerManager$ActionShell.<init>(DebuggerManager.java:190)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions$1.<init>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager$DebuggerShellActions.<clinit>(DebuggerManager.java:97)
+	at com.mathworks.widgets.debug.DebuggerManager.getContinueAction(DebuggerManager.java:292)
+	at com.mathworks.matlabserver.worker.service.breakpoint.impl13b.DebuggerInstaller.<init>(DebuggerInstaller.java:43)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceImpl.initializeSingletonEditorFeatures(EditorDataServiceImpl.java:75)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceImpl.<init>(EditorDataServiceImpl.java:60)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceImpl.<init>(EditorDataServiceImpl.java:44)
+	at com.mathworks.matlabserver.editordataservice.EditorDataServiceInitialize.initialized(EditorDataServiceInitialize.java:12)
+	at com.mathworks.matlabserver.internalconnector.servlet.ContextListenerImpl.contextInitialized(ContextListenerImpl.java:66)
+	at org.eclipse.jetty.server.handler.ContextHandler.callContextInitialized(ContextHandler.java:775)
+	at org.eclipse.jetty.servlet.ServletContextHandler.callContextInitialized(ServletContextHandler.java:424)
+	at org.eclipse.jetty.server.handler.ContextHandler.startContext(ContextHandler.java:767)
+	at org.eclipse.jetty.servlet.ServletContextHandler.startContext(ServletContextHandler.java:249)
+	at org.eclipse.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1250)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:710)
+	at org.eclipse.jetty.webapp.WebAppContext.doStart(WebAppContext.java:492)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.doStart(HandlerWrapper.java:95)
+	at org.eclipse.jetty.server.handler.ScopedHandler.doStart(ScopedHandler.java:115)
+	at org.eclipse.jetty.server.handler.ContextHandler.startContext(ContextHandler.java:756)
+	at org.eclipse.jetty.server.handler.ContextHandler.doStart(ContextHandler.java:710)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.handler.HandlerCollection.doStart(HandlerCollection.java:229)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.doStart(ContextHandlerCollection.java:172)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.doStart(HandlerWrapper.java:95)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:280)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.JettyWebServer.g(Unknown Source)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.JettyWebServer.a(Unknown Source)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.d.a(Unknown Source)
+	at com.mathworks.matlabserver.connectorcommon.embeddedwebserver.d.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
